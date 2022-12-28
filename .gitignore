@@ -1,0 +1,9 @@
+*.csproj.user
+
+.vs
+Assets
+bin
+obj
+input
+
+Search.gen.cs

@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">Zpívejme Pánu</string>
+	<string name="search_hint">Číslo písně nebo část názvu:</string>
+	<string name="search_button_text">Hledej písně</string>
+	<string name="show_all_button_text">Zobraz všechny písně</string>
+</resources>
