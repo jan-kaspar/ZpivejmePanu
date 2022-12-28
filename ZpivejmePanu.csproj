@@ -105,6 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\Songs\*.*" />
+    <AndroidAsset Include="Assets\help.html" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\icon.png" />

@@ -32,11 +32,17 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/SearchButton"
         android:id="@+id/ShowAllButton" />
+    <Button
+        android:text="@string/help_button_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ShowAllButton"
+        android:id="@+id/HelpButton" />
 	<TextView
 		android:text="version"
 		android:textAppearance="?android:attr/textAppearanceSmall"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
-		android:layout_below="@id/ShowAllButton"
+		android:layout_below="@id/HelpButton"
 		android:id="@+id/VersionTextView" />
 </RelativeLayout>

@@ -4,3 +4,4 @@
   - search ignoring diacritics
 
 * Help button
+  - add real instructions

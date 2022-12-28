@@ -4,4 +4,6 @@
 
 * icon updated
 
+* help button added
+
 # 0.4.1

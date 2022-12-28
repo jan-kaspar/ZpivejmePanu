@@ -14,6 +14,7 @@ namespace ZpivejmePanu
 		EditText selectionText;
 		Button searchButton;
 		Button showAllButton;
+		Button helpButton;
 		TextView versionTextView;
 		
 		Search search = new Search();
@@ -28,10 +29,12 @@ namespace ZpivejmePanu
 			selectionText = FindViewById<EditText>(Resource.Id.SelectionText);
 			searchButton = FindViewById<Button>(Resource.Id.SearchButton);
 			showAllButton = FindViewById<Button>(Resource.Id.ShowAllButton);
+			helpButton = FindViewById<Button>(Resource.Id.HelpButton);
 			versionTextView = FindViewById<TextView>(Resource.Id.VersionTextView);
 
 			searchButton.Click += SearchButton_Click;
 			showAllButton.Click += ShowAllButton_Click;
+			helpButton.Click += HelpButton_Click;
 
 			versionTextView.Text = "verze " + VersionTracking.CurrentVersion;
 		}
@@ -78,6 +81,13 @@ namespace ZpivejmePanu
 			intent.PutStringArrayListExtra("searchResults", results);
 			StartActivity(intent);
 		}
+		
+        private void HelpButton_Click(object sender, object e)
+        {
+			var intentd = new Intent(this, typeof(SongViewActivity));
+			intentd.PutExtra("songFile", "../help.html");
+			StartActivity(intentd);
+        }
 
 		public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
 		{
