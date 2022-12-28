@@ -4,6 +4,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Widget;
 using AndroidX.AppCompat.App;
+using System.Linq;
 using Xamarin.Essentials;
 
 namespace ZpivejmePanu
@@ -57,7 +58,7 @@ namespace ZpivejmePanu
 			var results = search.FindSongs(pattern);
 			
 			// nothing found -> show error
-			if (results.Length == 0)
+			if (results.Count == 0)
 			{
 				var toast = Toast.MakeText(Application, "Nic nebylo nalezeno.", ToastLength.Long);
 				toast.SetGravity(Android.Views.GravityFlags.Top, 0, 0);
@@ -66,19 +67,17 @@ namespace ZpivejmePanu
 			}
 
 			// exactly one result -> display the song
-			if (results.Length == 1)
+			if (results.Count == 1)
 			{
-				var songNumber = SongData.PackedStringToFileName(results[0]);
-
 				var intentd = new Intent(this, typeof(SongViewActivity));
-				intentd.PutExtra("songFile", Search.SongNumberToFileName(songNumber));
+				intentd.PutExtra("songFile", results[0].GetFileName());
 				StartActivity(intentd);
 				return;
 			}
 
 			// multiple results -> show the list
 			var intent = new Intent(this, typeof(SearchResultsActivity));
-			intent.PutStringArrayListExtra("searchResults", results);
+			intent.PutStringArrayListExtra("searchResults", results.Select(item => item.ToString()).ToList());
 			StartActivity(intent);
 		}
 		

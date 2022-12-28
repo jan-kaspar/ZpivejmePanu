@@ -23,10 +23,10 @@ namespace ZpivejmePanu
 		void ItemClick(object sender, AdapterView.ItemClickEventArgs args)
 		{
 			var packedString = ((TextView)args.View).Text;
-			var songNumber = SongData.PackedStringToFileName(packedString);
+			var songNumber = SongData.ExtractSongNumber(packedString);
 
 			var intent = new Intent(this, typeof(SongViewActivity));
-			intent.PutExtra("songFile", Search.SongNumberToFileName(songNumber));
+			intent.PutExtra("songFile", SongData.FileNameFromSongNumber(songNumber));
 			StartActivity(intent);
 		}
 	}

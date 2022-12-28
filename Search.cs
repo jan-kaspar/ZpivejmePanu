@@ -2,67 +2,23 @@
 
 namespace ZpivejmePanu
 {
-	struct SongData
-	{
-		string number;
-		string title;
-
-		public SongData(string _n, string _t)
-		{
-			number = _n;
-			title = _t;
-		}
-
-		public bool Match(string key)
-		{
-			if (number == key)
-				return true;
-
-			if (title.IndexOf(key, System.StringComparison.OrdinalIgnoreCase) >= 0)
-				return true;
-
-			return false;
-		}
-
-		public string PackToString()
-		{
-			return number + ": " + title;
-		}
-
-		public static string PackedStringToFileName(string packedString)
-		{
-			return packedString.Split(':')[0];
-		}
-	}
-
-	partial class Search
+	public partial class Search
 	{
 		private List<SongData> allSongs;
 
-		public string[] FindSongs(string pattern)
+		public List<SongData> FindSongs(string pattern)
 		{
-			List<string> results = new List<string>();
+			List<SongData> results = new List<SongData>();
 
 			foreach (var song in allSongs)
 			{
 				if (song.Match(pattern))
-					results.Add(song.PackToString());
+					results.Add(song);
 			}
 
-			// TODO: remove when testing over
-			if (pattern == "test")
-				results.Add("test: test");
-
-			return results.ToArray();
+			return results;
 		}
 
-		public static string SongNumberToFileName(string songNumber)
-		{
-			// TODO: remove when testing over
-			if (songNumber == "test")
-				return "test.png";
-
-			return songNumber + ".html";
-		}
+		public List<SongData> GetAllSongs() => allSongs;
 	}
 }
