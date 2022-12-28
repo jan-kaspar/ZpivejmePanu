@@ -81,7 +81,9 @@
     <Compile Include="SongViewActivity.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ChangeLog.md" />
     <None Include="Properties\AndroidManifest.xml" />
+    <None Include="TODO.md" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\activity_main.xml">
