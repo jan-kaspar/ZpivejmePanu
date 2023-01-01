@@ -135,6 +135,7 @@ f_out = open(os.path.join(outputDir, "Search.gen.cs"), "w", encoding="utf-8")
 CopyContents("searchFileHeader.cs", f_out)
 
 for song in songCollection:
-    f_out.write("\t\t\tallSongs.Add(new SongData(\"{}\", \"{}\"));\n".format(song["number"], song["name"]))
+    f_out.write("\t\t\tallSongs.Add(new SongData(\"{}\", \"{}\", \"{}\", \"{}\"));\n".format(
+        song["number"], song["name"], song["author"], song["source"]))
 
 CopyContents("searchFileFooter.cs", f_out)

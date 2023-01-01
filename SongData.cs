@@ -11,12 +11,12 @@ namespace ZpivejmePanu
 		string source;
 		string file_name;
 
-		public SongData(string number, string title, string file_name = null)
+		public SongData(string number, string title, string author, string source)
 		{
 			this.number = number;
 			this.title = title;
-			author = "";
-			source = "";
+			this.author = author;
+			this.source = source;
 			this.file_name = file_name ?? FileNameFromSongNumber(number);
 		}
 
