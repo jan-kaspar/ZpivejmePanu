@@ -99,7 +99,9 @@
     <AndroidResource Include="Resources\values\strings.xml" />
     <AndroidResource Include="Resources\values\styles.xml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\help.html" />
+  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="NUnit">
       <Version>3.13.3</Version>

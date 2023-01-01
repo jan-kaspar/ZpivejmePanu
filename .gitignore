@@ -1,7 +1,7 @@
 *.csproj.user
 
 .vs
-Assets
+Assets/Songs
 bin
 obj
 input
