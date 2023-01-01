@@ -115,7 +115,7 @@ def ProcessOneFile(fileName: str):
 
         line = line.replace("{REF}", "<b>REF: </b>").replace("{ODP}", "<b>ODP: </b>")
 
-        line = re.sub(translationPattern, lambda m : "<i>Překlad: " + m.group(1) + "</i>", line)
+        line = re.sub(translationPattern, lambda m : "<br><i>Překlad: " + m.group(1) + "</i>", line)
 
         # write to output
         if f_out != None:
