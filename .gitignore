@@ -6,4 +6,5 @@ bin
 obj
 input
 
+Resources/Resource.designer.cs
 Search.gen.cs
