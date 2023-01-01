@@ -1,31 +1,32 @@
-\newsong{1|Pane Bože přijď k nám}
-Pane Bože přijď k nám,ve své moci a slávě,
+\newsong{1|Pane Bože přijď k nám}
+Pane Bože přijď k nám, ve své moci a slávě,
 přebývej mezi námi, navštiv lid svůj.
-Přijď, Ježíši, k nám, Ty jsi hlava své církve,
+Přijď, Ježíši, k nám, Ty jsi hlava své církve,
 jsi naším Králem, Ty jsi úhelný kámen.
 Jsi požehnaný Bůh, pevná skála, požehnaný na věky,
 požehnané je Tvoje jméno, požehnaný Syn Otce svého.
 
 \newsong{2|Jsme Tvůj lid}
-/:Jsme Tvůj lid, jsme Tvá nevěsta,
+/: Jsme Tvůj lid, jsme Tvá nevěsta,
 tak přijď mezi nás, tak přijď rozdávat. :/
 /: Ať láska Tvá vždy mezi námi přebývá
 a pokoj svůj znovu vylej mezi nás. :/
 
-\newsong{3|Pane, přijď s mocí svou}
-Pane, přijď s mocí svou, Pane, přijď.
+\newsong{3|Pane, přijď s mocí svou}
+Pane, přijď s mocí svou, Pane, přijď.
 Čekáme slávu tvou, Pane, přijď.
-Buď vůle Tvá vždy zjevená, posvěť se v nás.
-Vystroj nás k službě své, Pane, žehnej nám.
+Buď vůle Tvá vždy zjevená, posvěť se v nás.
+Vystroj nás k službě své, Pane, žehnej nám.
 
 \newsong{4|Přichází náš Pán}
 Přichází náš Pán, přichází náš Král, přichází mezi nás Ježíš.
 Mistr náš, přítel náš, přichází mezi nás Ježíš.
 
 \newsong{5|Kde se křesťané}
-Kde se křesťanéspolu scházejí ve jménu Tvém, v lásce jednotní,
+Kde se křesťané spolu scházejí ve jménu Tvém, v lásce jednotní,
 právě tam jsi zaslíbil, že budeš přítomný.
 Dnes víme, náš Bůh je na tomto místě přítomný!
+
 {REF} Přivítejme Pána v tomto chrámě, ať ho Boží sláva naplní,
 svému Bohu zpívejme a hrajme píseň spasených.
 
@@ -35,7 +36,7 @@ Pojďte ke mně všichni, kdo jste obtíženi.
 /: A já vám, praví Pán, já vám odpočinek dám. :/
 
 \newsong{7|Otevřete víc brány své}
-1. /: Otevřete víc brány své,zvedněte výš svá nadpraží. :/
+1. /: Otevřete víc brány své, zvedněte výš svá nadpraží. :/
 {REF} Ať jen může vstoupit slávy Král. 4X
 2. On z mrtvých vstal, vzhůru šel, skrz každou hráz všech mocností.
 Připravte trůn, ten nejvyšší, zvedněte výš svá nadpraží.
@@ -43,7 +44,7 @@ Připravte trůn, ten nejvyšší, zvedněte výš svá nadpraží.
 S anděly Pánu pojďme vstříc, otevřme brány srdcí svých.
 
 \newsong{8|Ó Pane otevři mé rty}
-/: Ó Pane otevři mé rty,ó Pane otevři mé rty,
+/: Ó Pane otevři mé rty, ó Pane otevři mé rty,
 ó Pane otevři mé rty, ať má ústa zvěstují tvou chválu. :/
 /: Jsi velký a mocný Bůh, jen tobě patří naše chvála.
 Jsi velký a mocný Bůh, jen tobě patří chvála. :/
@@ -63,23 +64,23 @@ před Pánem svým teď můžeš stát, tak pojď.
 srdcem celým i silou svou, vším, chci Tě milovat.
 
 \newsong{11|Nyní pokloňme se před Králem}
-/: Nyní pokloňme se před Králem, klekněme před naším Stvořitelem. :/
+/: Nyní pokloňme se před Králem, klekněme před naším Stvořitelem.  :/
 Vždyť On je náš Bůh a my jsme ovce pastvin Jeho,
 stádem, jež On sám vodí, rukou svou Bůh nás vodí.
 
 \newsong{12|Právě teď}
-1. Právě teďje chválit Pána čas,
+1. Právě teď je chválit Pána čas,
 být svatyní jeho svatého Ducha.
 Svou důvěru slož u něj a chválu Bohu vzdej,
 sláva Páně toto místo naplní.
-{REF}  /: Pána chval, Pána chval. :/
+{REF} /: Pána chval, Pána chval. :/
 2. On přebývá ve chválách svého lidu,
 má rád, když Jeho jméno vzýváme,
 svou důvěru slož u Něj a začni chválit Jej,
 sláva Páně toto místo naplní.
 
 \newsong{13|Vyvyšuji Tebe, Pane}
-/: Vyvyšuji Tebe, Pane,nad tímto dnem,
+/: Vyvyšuji Tebe, Pane, nad tímto dnem,
 vyvyšuji Tebe, Pane, nad každým člověkem,
 vyvyšuji Tebe, Pane, nad vším, co stvořeno jest,
 vyvyšuji Tebe, Pane, i nad svým životem. :/
@@ -88,15 +89,16 @@ vyvyšuji Tebe, Pane, i nad svým životem. :/
 \newsong{14|Voláme Tě, Duchu svatý}
 1. /:Voláme Tě, Duchu svatý, čekáme Tě, Duchu svatý,
 prosíme, přijď sem k nám.:/
-{REF}  Tvé jméno dává moc a sílu znát vůli Tvou, Bože náš. Přijď k nám.
+{REF} Tvé jméno dává moc a sílu znát vůli Tvou, Bože náš. Přijď k nám.
 2. /:Voláme Tě, Boží Synu, čekáme Tě, Boží Synu,
 prosíme, přijď sem k nám.:/
 3. /:Voláme Tě, Otče v nebi, čekáme Tě, Otče v nebi,
 prosíme, přijď sem k nám.:/
 
-\newsong{20|Chvála ať zní }(podle Dan 2, 20 – 22)
-{REF} /:Chvála ať zní nekonečná našemu Pánu, chvála ať zní! Chvála ať zní!:/
-1. Jen v Bohu je moudrost a síla, On všemu svůj smysl dává
+\newsong{20|Chvála ať zní||podle Dan 2, 20 – 22}
+{REF} /:Chvála ať zní nekonečná našemu Pánu, chvála ať zní!
+Chvála ať zní!:/
+1. Jen v Bohu je moudrost a síla, On všemu svůj smysl dává,
 Hospodin vede svůj lid po cestách správných.
 2. Zná temnoty našeho hříchu, touží je prozářit láskou,
 proměnit vyprahlou poušť v prameny vláhy.
@@ -107,15 +109,15 @@ veleben buď svatý Duch na věky věků.
 
 \newsong{21|Kameny chrámové}
 Kameny chrámové ­leží na sobě, všechny nás pojí jedna víra,
-nikdo z nás nežije sám sobě a nikdo z nás sám sobě neumírá.
+nikdo z nás nežije sám sobě a nikdo z nás sám sobě neumírá.
 Ať žijeme, cokoliv děláme, našimi skutky je oslaven Pán.
 Ať jásáme, ať strádáme, tvoříme jedno Tělo, jeden Boží chrám.
 
 \newsong{22|Chceme Ti zazpívat}
-1. Chceme Ti zazpívat,Bože náš, Stvořiteli náš, Spasiteli náš, Králi náš.
+1. Chceme Ti zazpívat, Bože náš, Stvořiteli náš, Spasiteli náš, Králi náš.
 Chceme Ti zazpívat, Bože náš, radost jsi nám dal, do úst píseň chval,
 Bože náš.
-{REF} Bože náš, Bože náš, Tys nás očistil, Duchem naplnil, Bože náš. 
+{REF} Bože náš, Bože náš, Tys nás očistil, Duchem naplnil, Bože náš.
 Bože náš, Bože náš, lidi miluješ, všechny k sobě zveš, Bože náš.
 2. Chceme Ti děkovat, Bože náš, že z nás chceš mít chrám,
 kde přebýváš sám, Králi náš. Chceme Ti děkovat, Bože náš,
@@ -124,7 +126,7 @@ plni vděčnosti, vroucí radosti, Bože náš.
 Králi náš. Ruce své zvedáme, Bože náš,
 budiž veleben na věky, amen, Bože náš.
 
-\newsong{23|Trůn s korunou}
+\newsong{23|Trůn s korunou}
 {REF} Sláva tvá je na nebi, vláda Tvá nade mnou.
 Tvůj trůn je na nebi, Tvůj trůn s korunou.
 1. Není z tohoto světa království Božích zaslíbení,
@@ -135,11 +137,11 @@ mocní tohoto světa království Boží nechápou.
 maličcí tohoto světa království Boží naleznou.
 
 \newsong{24|Ježíš je Pán pánů}
-/:Ježíš je Pán pánůa Král králů, aleluja.:/
+/:Ježíš je Pán pánů a Král králů, aleluja.:/
 /:Ježíš - Kníže míru, sláva, aleluja!:/
 
 \newsong{25|Hospodin kraluje}
-Hospodin kraluje, oděl se důstojností, oděl se Hospodin, mocí se opásal. Pevně je založen svět, nic s ním neotřese,
+Hospodin kraluje, oděl se důstojností, oděl se Hospodin, mocí se opásal. Pevně je založen svět, nic s ním neotřese,
 Tvůj trůn pevně stojí odedávna, Ty jsi od věčnosti.
 /: Zvedají řeky, Hospodine, zvedají řeky svůj hlas,
 zvedám i já, Hospodine, zvedám i já svůj hlas. :/
@@ -149,13 +151,13 @@ zvedám i já, Hospodine, zvedám i já svůj hlas. :/
 /: Velebíme Tvoje svaté jméno, Ty jsi Bůh náš a Pán. :/
 
 \newsong{27|Jak nádherné}
-{REF} Jak nádherné jsou chvíle v blízkosti Tvé, Duch lásky nás obestírá,
-pak písně chvály, hymny jásavé v nás k slávě Tvé rozezní.
+{REF} Jak nádherné jsou chvíle v blízkosti Tvé, Duch lásky nás obestírá,
+pak písně chvály, hymny jásavé v nás k slávě Tvé rozezní.
 1. Toužím plnit vůli Tvou, zde jsem, Pane, přicházím,
 Tvému srdci život svůj nabízím.
 2. Ať má ústa před světem Tvé jméno vyznávají,
 o Tvé spáse národům hlásají.
-3. Z temnot hříchu, žádostí mě láska Tvá vyvádí,
+3. Z temnot hříchu, žádostí mě láska Tvá vyvádí,
 když svou smrt za život můj přináší.
 4. Tobě můj zpěv náleží, jen Ty jsi mou radostí,
 dárce spásy, vítězství, velebí.
@@ -168,13 +170,13 @@ A On kraluje na trůnu dál a On kraluje na trůnu dál.
 
 \newsong{29|Ať zní touto nocí}
 {REF} Ať zní touto nocí chvála Tvá, mír do srdcí vlévá.
-Ať zní touto nocí píseň velebná, Král králů s námi přebývá.
-1. V tichu našich srdcí nechme vzejít pramen nové chvály a díků.
+Ať zní touto nocí píseň velebná, Král králů s námi přebývá.
+1. V tichu našich srdcí nechme vzejít pramen nové chvály a díků.
 2. Jako panny moudré, hlídejme své lampy, až Pán přijde, ať září.
-3. S důvěrou ať stoupá modlitba jak kadidlová vůně před Tvůj trůn.
+3. S důvěrou ať stoupá modlitba jak kadidlová vůně před Tvůj trůn.
 
 \newsong{30|Haleluja, všichni zpívají}
-Haleluja, všichni zpívají,haleluja ať tady zní,
+Haleluja, všichni zpívají, haleluja ať tady zní,
 vzdejme chválu Bohu našemu, ať Jeho Sláva tento dům naplní.
 
 \newsong{31|Hledám Tvoji tvář, Pane můj}
@@ -205,13 +207,14 @@ celou svou myslí, hledám slávu Tvou celou svou silou, Ty jsi můj Pán.
 1. /: Chci, Pane, chválit Tě, den ode dne víc, :/
 chci hledat Tvoji tvář a poznávat milost Tvou, chci Tebe chválit.
 2. Chci Tebe více znát…
-3. Chci k Tobě lásku mít…
+3. Chci k Tobě lásku mít…
 4. Jen Tobě sloužit chci…
-Ptáci v oblacích Tobě zpívají, stromy na polích ruce zvedají, i já zpívat chci, své ruce pozvednout k oslavě Tvé.
+
+Ptáci v oblacích Tobě zpívají, stromy na polích ruce zvedají, i já zpívat chci, své ruce pozvednout k oslavě Tvé.
 
 \newsong{36|Hospodin je síla má}
 Hospodin je síla má, můj štít, mé spasení.
-Srdce mé v Něj doufá, je jedinou mou nadějí.
+Srdce mé v Něj doufá, je jedinou mou nadějí.
 /: Já písní svou Ti toužím chválu vzdát. :/
 /: Já písní svou teď Tebe toužím ctít. :/
 
@@ -221,43 +224,42 @@ vzdejme chválu a díky Králi, on je hoden mít vše, co mám,
 krev jeho tekla za tebe i za mě, sám sebe nám dal.
 
 \newsong{38|Dáváš mi lásku vzácnou}
-Dáváš mi lásku vzácnou,dáváš mi přátelství,
+Dáváš mi lásku vzácnou, dáváš mi přátelství,
 vždyť mám teď touhu jasnou, jít na Tvé nádvoří,
 /: chválit Tvé svaté jméno, přebývat v Tvých hlubinách,
 v srdci mít lásku Tvou, jenom s ní žít. :/
 
 \newsong{39|Tvoje jméno vyznávám}
-Tvoje jméno vyznávám, rád Ti zpívám svoji chválu, jsem tak vděčný, že Tě znám, jsem tak vděčný za Tvou spásu. Přišel jsi k nám z nebe ukázat směr, dát v oběť sám sebe, jak Bůh to chtěl. Z kříže do hrobu´s byl dán, třetí den jsi z mrtvých vstal. Tvoje jméno vyznávám.
+Tvoje jméno vyznávám, rád Ti zpívám svoji chválu, jsem tak vděčný, že Tě znám, jsem tak vděčný za Tvou spásu. Přišel jsi k nám z nebe ukázat směr, dát v oběť sám sebe, jak Bůh to chtěl. Z kříže do hrobu´s byl dán, třetí den jsi z mrtvých vstal. Tvoje jméno vyznávám.
 
-\newsong{40|S námi je Bůh}
+\newsong{40|S námi je Bůh}
 /: Když Bůh je s námi:/, /:kdo je proti nám? :/
-/: Sňal pouta hříchu:/, /:smrti zlomil zbraň:/, /:smrti zlomil zbraň:/
+/:Sňal pouta hříchu:/, /:smrti zlomil zbraň:/, /:smrti zlomil zbraň:/
 /: Otevřel bránu:/ dokořán.
 /:S námi je Bůh, Immanuel. S námi je Bůh, Immanuel.:/
 
 \newsong{41|Boží království}
 {REF} Hledejte Boží království, všechno ostatní dá vám Pán.
-Rozdejte radost, lásku a pokoj, ostatní dá vám Pán.
 1. Všechno, co mám, je od Tebe, od Tebe, Pane můj.
 Dáváš nám jen to nejlepší, za co prosíme, máme mít.
 2. Kde jsem já, tam je můj služebník, toto nám říká Pán.
 Kde jsem já, tam je láska, radost a pokoj, je moje království.
 3. Pane Ježíši, Ty jsi láska, řeknem to lidem všem.
-Jen ať jsme světlem a solí země, k tomu nám sílu dej.
+Jen ať jsme světlem a solí země, k tomu nám sílu dej.
 
-\newsong{42|Chvalte Hospodina z nebes}
-Chvalte Hospodina z nebes, chvalte Ho ve výšinách!
+\newsong{42|Chvalte Hospodina z nebes}
+Chvalte Hospodina z nebes, chvalte Ho ve výšinách!
 Chvalte Ho, všichni jeho andělé, chvalte Ho, všechny jeho zástupy. /: Neboť vyvýšené je jeho jméno, jeho velebnost je nad nebem a zemí.:/
 
 \newsong{43|Chválu vzdejte}
-Chválu vzdejte,vyzpívejte Hospodinu Králi.
-Jeho jméno vyvyšujte, že se k nám všem sklání.
+Chválu vzdejte, vyzpívejte Hospodinu Králi.
+Jeho jméno vyvyšujte, že se k nám všem sklání.
 Hospodinu, Králi svému, každý chválu pěj!
 
 \newsong{44|Chválím Tebe, Králi}
-Chválím Tebe, Králi,vzývám Tvoje jméno. Zpívám o lásce Tvé. Požehnaný, dobrotivý jsi Bůh. Ať jméno Tvé, Pane, zní
+Chválím Tebe, Králi, vzývám Tvoje jméno. Zpívám o lásce Tvé. Požehnaný, dobrotivý jsi Bůh. Ať jméno Tvé, Pane, zní
 všem národům ke spasení, Tvé slovo je meč a pravda Tvá štít.
-Ať láska Tvá jako květ voní v nás.
+Ať láska Tvá jako květ voní v nás.
 
 \newsong{45|Vše, co mohu dát, je chvála}
 Vše, co mohu dát, je chvála, vše, co mohu dát, je dík.
@@ -276,13 +278,13 @@ stejně má duše bude zpívat Ti chválu, tisíce let Tě chválit napořád.
 
 \newsong{47|Chválu vzdejme Otci}
 Chválu vzdejme Otci, chválu i Synu, chválu i Duchu,
-chválu Bohu v třech osobách.
+chválu Bohu v třech osobách.
 
-\newsong{48|Haleluja, sláva, čest i chvála s dobrořečením}
-{REF} Haleluja, sláva, čest i chvála s dobrořečením,
+\newsong{48|Haleluja, sláva, čest i chvála s dobrořečením}
+{REF}  Haleluja, sláva, čest i chvála s dobrořečením,
 síla i moc, úcta i dík Tobě navěky náleží.
 1. Přišel jsi plamenem zažehnout knoty vírou jen doutnající, změnit
-pustinu v zahradu rozkvetlou /: v srdcích bez lásky strádajících. :/
+pustinu v zahradu rozkvetlou /: v srdcích bez lásky strádajících. :/
 2. Svatý se dotýkal nečistých, sloužil Ten, kdo měl být uctíván, Král
 umýval nohy svým poddaným, /: Nevinný za hřích byl potrestán. :/
 
@@ -296,25 +298,24 @@ není takových skutků, jako jsou Tvoje!
 my zvedáme svoje dlaně, my voláme: „Ty jsi Pán!“ :/
 /: Vždyť Ty jsi Pán, Ty jediný, Ty jsi Král, Ty jsi tolik nádherný,
 celý svět se Ti klaní. :/
-Neboť Tvé je království, moc i sláva na věky, v Tvém jménu je síla,
+Neboť Tvé je království, moc i sláva na věky, v Tvém jménu je síla,
 Ty jsi alfa, omega, /: Ty jsi Ježíš, Ty jsi Pán, vládce můj. :/
 
 \newsong{51|Pane můj, chválím Tě}
-1.Pane můj, chválím Tě,chci žít jen pro Tebe a miluji Tě.
-2. Otče můj, chválím Tě,chci žít jen pro Tebe a miluji Tě.
-3. Ježíši chválím Tě,chci žít jen pro Tebe a miluji Tě.
-4. Duchu svatý chválím Tě,chci žít jen pro Tebe a miluji Tě.
+1. Pane můj, chválím Tě, chci žít jen pro Tebe a miluji Tě.
+2. Otče můj, chválím Tě, chci žít jen pro Tebe a miluji Tě.
+3. Ježíši chválím Tě, chci žít jen pro Tebe a miluji Tě.
+4. Duchu svatý chválím Tě, chci žít jen pro Tebe a miluji Tě.
 
 \newsong{52|Zde jsem}
 1. K nám, když jsi vstoupil, Tvá zář ve tmě vzplála.
 Tvůj čin mi dal zahlédnout krásu, co dává mi touhu Tě chválit,
 v blízkosti Tvé navždy žít.
-{REF}  Zde jsem, chci Tě chválit, před Tebou se sklánět,
+{REF} Zde jsem, chci Tě chválit, před Tebou se sklánět,
 zde jsem a chci říct, že jsi můj Pán. Jsi nade všechno krásný,
 hoden chval a úcty. Nade všechno nádherný, Ty sám.
 2. Králi všech dnů, který vládneš ve slávě, byls v nebesích uctíván.
-Zem, dílo Tvé, byla místem Tvé bídy, z lásky když snížil ses k nám.
-R+ /:A z lásky k nám jsi snášel kříž, co stál můj hřích, Ty sám jen víš.:/
+Zem, dílo Tvé, byla místem Tvé bídy, z lásky když snížil ses k nám. R+/:A z lásky k nám jsi snášel kříž, co stál můj hřích, Ty sám jen víš.:/
 
 \newsong{53|Všechny národy|Jiří Černý}
 /:Všechny národy, tleskejte rukama, Bohu jásejte hlasem radostným.:/
@@ -347,9 +348,9 @@ já dál už toužím jít jen cestou Tvou.
 
 \newsong{56|Chvalme našeho Pána|Petr Volf}
 /: Chvalme našeho Pána, před Králem povstaňme,
-ruce zvedněme k nebesům, chvalme Ježíše! :/
+ruce zvedněme k nebesům, chvalme Ježíše! :/
 Vždyť on je náš Král, svou lásku nám dal, otevřel bránu dokořán,
-jsme jeho lid, s ním můžeme být, navěky v jeho království.
+jsme jeho lid, s ním můžeme být, navěky v jeho království.
 
 \newsong{57|Chci oslavovat}
 /: Chci oslavovat svého Pána, chci mu zpívat novou píseň. :/
@@ -358,8 +359,8 @@ jsme jeho lid, s ním můžeme být, navěky v jeho království.
 \newsong{58|Dáváš mi lásku vzácnou}
 Dáváš mi lásku vzácnou, dáváš mi přátelství,
 vždyť mám teď touhu jasnou, jít na Tvé nádvoří,
-/: chválit Tvé svaté jméno, přebývat v Tvých hlubinách,
-v srdci mít lásku Tvou, jenom s ní žít. :/
+/: chválit Tvé svaté jméno, přebývat v Tvých hlubinách,
+v srdci mít lásku Tvou, jenom s ní žít. :/
 
 \newsong{59|Vzácný jsi}
 1. /:Vzácný jsi pro mě, Pane můj.:/
@@ -367,17 +368,17 @@ v srdci mít lásku Tvou, jenom s ní žít. :/
 Ty Sám's mě dřív měl rád.:/
 2. /:Láska Tvá je vzácná, to vím.:/
 3. /:Vůle Tvá je správná, to vím!:/
-4. Cestou Tvou já navždy chci jít. Cestou Tvou my navždy chcem jít.
+4.  Cestou Tvou já navždy chci jít. Cestou Tvou my navždy chcem jít.
 
 \newsong{60|Tobě, Králi, toužím čest, chválu vzdát}
 Tobě, Králi, toužím čest, chválu vzdát,
 celým srdcem chválím jméno Tvé.
 Ze vší síly zpívám a vzdávám dík, před Tebou se skláním, Pane můj.
 Dávám Ti srdce své i duši svou, chci jen pro Tebe žít.
-S každým nadechnutím, s každým procitnutím chci jen Tvou cestou jít.
+S každým nadechnutím, s každým procitnutím chci jen Tvou cestou jít.
 
 \newsong{61|Pánů Pán}
-Pánů Pána králů Král. Ježíš je kníže míru. Haleluja, haleluja.
+Pánů Pán a králů Král. Ježíš je kníže míru. Haleluja, haleluja.
 
 \newsong{62|Ať srdce mé Tebe vídá}
 /: Ať srdce mé Tebe vídá, ať srdce mé Tebe zná,
@@ -417,7 +418,7 @@ Má duše Pána velebí, má duše Pána velebí, můj Bůh je spása má.
 {REF} Zpívejte se mnou písně chval, jásot ať nekončí.
 Pán divy pro mě vykonal a pro vás je též učiní.
 1. Na nepatrnou dívku shlédl Hospodin, můj Pán
-a dobrodiním naplnil. V něm jásá duše má!
+a dobrodiním naplnil. V něm jásá duše má!
 2. On velké věci učinil mně, Svatý, Všemocný.
 Ať jeho svaté jméno zem i nebe velebí.
 3. Svou mocí rozptyluje ty, kdo pyšně smýšlejí,
@@ -426,9 +427,9 @@ a dává milosrdenství těm, kdo se Ho bojí.
 On plní sliby praotcům a chrání děti své.
 
 \newsong{69|Sláva Tobě}
-1. Sláva Tobě,Bože, Otče, sláva, chvála na věky věků.
-2. Sláva Tobě,Jezu Kriste, sláva, chvála na věky věků.
-3. Sláva Tobě,Duchu svatý, sláva, chvála na věky věků.
+1. Sláva Tobě, Bože, Otče, sláva, chvála na věky věků.
+2. Sláva Tobě, Jezu Kriste, sláva, chvála na věky věků.
+3. Sláva Tobě, Duchu svatý, sláva, chvála na věky věků.
 
 \newsong{70|Ty jsi jediný Bůh}
 Ty jsi jediný Bůh, první a poslední, nikdy nebyl a nebude více,
@@ -441,12 +442,12 @@ moudrý a dokonalý, nikdy nebyl a nebude více nikdo, jako jsi Ty.
 1. Tobě, Králi, chválu vzdávám. Vzývám jméno Tvé.
 Tobě, Králi, chválu vzdávám.
 2. Beránku, jsi hoden té chvály. Vzývám…
-3. V srdci mém zní nádherná píseň. Vzývám…
+3. V srdci mém zní nádherná píseň. Vzývám…
 4. Před Tebou teď poklekám, Králi. Vzývám…
-5. K trůnu Tvému zní moje chvála. Vzývám…
+5. K trůnu Tvému zní moje chvála. Vzývám…
 
 \newsong{72|Tobě, Pane, Králi náš}
-{REF}Tobě, Pane, Králi náš,toužím zpívat píseň chvály.
+{REF} Tobě, Pane, Králi náš, toužím zpívat píseň chvály.
 Tobě, Pane, Králi náš, poklonit se lásce Tvé.
 1. /:Tvé stvoření,:/ /: andělé a svatí,:/ /:země i vesmír,:/
 Pána svého chválí.
@@ -458,12 +459,14 @@ Pána svého chválí.
 Pána svého chválí.
 6. /:Národy země,://:služebníci Páně://:všichni tvorové:/
 Pána svého chválí.
-73. Aleluja
-{REF}  /:Aleluja, aleluja.:/
+
+\newsong{73|Aleluja}
+{REF} /:Aleluja, aleluja.:/
 1. Naplno zpívejme písně chval, ať v srdci nám vládne vždy jen
 Bůh a Král. Otevřme brány, ať vejde dál Bůh a přítel náš.
 2. Pán přišel nás ohněm lásky hřát, On proměnil tmu, životu dal svůj řád.
 Ten, kdo věří, nemusí se bát, Bůh je přítel náš.
+
 3. Posílá nás ke všem národům, ať radostná zvěst naplní každý dům.
 Konec je všem dnešním otrokům! Bůh je přítel náš.
 
@@ -477,7 +480,7 @@ Vrcholky hor se sklání před Tebou, moře chválí sílu Tvou.
 Před jménem Tvým s radostí Tobě zpívám, jsi moje láska, Tebe uctívám, navždy mi zůstane úkrytem náruč Tvá.
 
 \newsong{75|Hospodine, chválu Ti vzdávám}
-Hospodine, chválu Ti vzdávám,Hospodine, vždyť jsi můj Bůh. Hospodine, Tvá sláva hvězd se dotýká. Hospodine, jsi život můj. Hospodine, jsi život můj, Hospodine, mé srdce láskou přetéká,
+Hospodine, chválu Ti vzdávám, Hospodine, vždyť jsi můj Bůh. Hospodine, Tvá sláva hvězd se dotýká. Hospodine, jsi život můj. Hospodine, jsi život můj, Hospodine, mé srdce láskou přetéká,
 Hospodine, jsi život můj. Amen.
 
 \newsong{76|Chválu vzdejte Hospodinu}
@@ -486,12 +489,12 @@ jeho milosrdenství je věčné.
 Chválu vzdejte Bohu bohů – jeho milosrdenství je věčné.
 Chválu vzdejte Pánu pánů – jeho milosrdenství je věčné.
 Jedině on koná veliké divy – jeho milosrdenství je věčné.
-{REF}/: Jako vysoko je nad zemí nebe, :/
+{REF} /: Jako vysoko je nad zemí nebe, :/
 tak se nad námi Tvé milosrdenství klene.
 2. Zemi na vodách překlenul oblohou – jeho milosrdenství je věčné.
 Učinil veliká světla – jeho milosrdenství je věčné.
 Slunce, aby vládlo ve dne – jeho milosrdenství je věčné.
-Měsíc a hvězdy, aby vládly v noci – jeho milosrdenství je věčné.
+Měsíc a hvězdy, aby vládly v noci – jeho milosrdenství je věčné.
 3. Když jsme byli poníženi, rozpomněl se na nás,
 jeho milosrdenství je věčné.
 A vyrval nás našim protivníkům – jeho milosrdenství je věčné.
@@ -499,7 +502,7 @@ Veškerému tvorstvu dává pokrm – jeho milosrdenství je věčné.
 Chválu vzdejte Bohu nebes – jeho milosrdenství je věčné.
 
 \newsong{77|Jsme děti Tvé}
-Jsme děti Tvé,jsme děti království, ve jménu Ježíš máme vítězství.
+Jsme děti Tvé, jsme děti království, ve jménu Ježíš máme vítězství.
 Před Boží svatostí ďábel pryč utíká, ve světle Tvém a v lásce Tvé
 je krásné žít. Haleluja, haleluja.
 
@@ -512,7 +515,7 @@ sláva i moc patří Bohu našemu. Haleluja.
 
 \newsong{79|Nádherný}
 1. Ve tvém srdci je soucit a slitování, prapor lásky tvé nade mou.
-S tebou setkat se toužím tváří v tvář, navždy v blízkosti Tvé pak stát. 
+S tebou setkat se toužím tváří v tvář, navždy v blízkosti Tvé pak stát.
 Jak je nádherné víc Tě znát.
 {REF}Nádherný, pro mě vším jsi sám. Nádherný, svatý můj jsi Pán.
 Hoden jsi slávy, jsi králů Král, jak je nádherné víc Tě znát.
@@ -531,12 +534,12 @@ jen Ty jsi hoden chvály, Ty jsi hoden chvály.
 jak dřív. Dals mi poznat lásku svou, Tvůj pokoj mám,
 jen Tobě patří sláva, Tobě patří sláva.
 {REF} Ty jsi hoden mých chval, můj Králi, Ty jsi hoden díků mých,
-vší slávy. Ve Tvé náruči být, životem svým Tebe ctít, Ty jsi Králem 
+vší slávy. Ve Tvé náruči být, životem svým Tebe ctít, Ty jsi Králem
 mým. Máš můj dík, uctívám jen jméno Tvé. Ty jsi Králem mým.
 Máš můj dík, uctívám jen jméno Tvé. Ty jsi Králem mým.
 
 \newsong{81|Jen Ty, Pane můj}
-R: /:Jen Ty, Pane můj, jen Tys můj štít, má sláva,
+{REF} /:Jen Ty, Pane můj, jen Tys můj štít, má sláva,
 Ty mou hlavu pozvedáš.:/
 1. /:Mnoho je těch, kteří kolem volají:
 “V Bohu žádnou pomoc nenajdeš.“:/
@@ -557,27 +560,28 @@ vše co jsem, co mám, Tobě vydávám. Na cestě do věčnosti,
 do slávy Tvé.
 
 \newsong{83|Ó Bože, Světlo naše}
-Ó Bože, Světlo naše,je důstojné Tě chválit, Otce, Syna i Ducha svatého.
+Ó Bože, Světlo naše, je důstojné Tě chválit, Otce, Syna i Ducha svatého.
 Ó, Bože, Světlo naše, celý vesmír se Ti klaní, Otci, Synu i Duchu svatému.
 
 \newsong{84|Chvála zní}
-Chvála zní,chvála zní, Tobě králi vítězný,
+Chvála zní, chvála zní, Tobě králi vítězný,
 chvála zní, chvála zní, za spásu Tvou, vykoupení.
+
 1. Jásejte Hospodinu, vzdávejte dík, opěvujte Jeho svaté jméno,
 hlásejte zázraky lásky Boží, kterou každý den nabízí.
 2. Jen Ty jsi Stvořitel a Pán všemocný, nebesa i země jsou Tvé dílo,
 všem zjevují moc a slávu Boží, před kterou se svět uklání.
-3. Zpívejte s doprovodem nástrojů svých, hymny plné radosti a díků.
+3. Zpívejte s doprovodem nástrojů svých, hymny plné radosti a díků.
 Jásot ať stoupá před trůn milostí, oslavujte Pána všech dní.
-4. Jen v Tobě srdce radost svou nalézá, duše Tvoji pomoc očekává.
-Kéž láska Tvá v každém z nás přebývá, Pane naše sílo věčná.
+4. Jen v Tobě srdce radost svou nalézá, duše Tvoji pomoc očekává.
+Kéž láska Tvá v každém z nás přebývá, Pane naše sílo věčná.
 
 \newsong{85|Ať požehnán je Bůh}
 1. Ať požehnán je Bůh tam, kde je zem úrodná, tam,
 kde hojnost přebývá, požehnán buď Pán.
 2. Ať požehnán je Bůh, tam, kde je zem nevlídná,
 má duše žízní vyprahlá, požehnán buď Pán.
-{REF}Vše, co dáváš ze Tvých dlaní s díky přijímám,
+{REF} Vše, co dáváš ze Tvých dlaní s díky přijímám,
 všechno měníš v požehnání, chválu Ti vzdám.
 /: Buď požehnané slavné jméno Tvé, buď požehnaný Pán,
 buď požehnané slavné jméno Tvé,
@@ -591,32 +595,32 @@ Dáš a vezmeš sám můj pád i vítězství,
 v mém srdci stále zní jen slova žehnání.
 
 \newsong{86|Chválím a vzývám jméno Tvé}
-/: Chválím a vzývám jméno Tvé,jméno Ježíš, požehnané. :/
+/: Chválím a vzývám jméno Tvé, jméno Ježíš, požehnané. :/
 /: Tvé slovo věčné jest, Tvá sláva navždy též,
 Tvá moc je zjevná ve jménu Ježíš. :/
 
-\newsong{87|Ježíši, spása mé duše}
+\newsong{87|Ježíši, spása mé duše }
 Ty víš, že rád mám Tě, Ty víš, jak moc chci Tě, víc Tě toužím znát,
 víc Ti sebe dát chci víc. To říká mé srdce, když nemám slov více.
-Když s Tebou jsem, tak vím, jen Tobě náležím.
-Ty jsi slávy Král, jen jednu touhu mám: s Tebou být, jen s tebou být, s Tebou žít, jen s Tebou žít.
+Když s Tebou jsem, tak vím, jen Tobě náležím.
+Ty jsi slávy Král, jen jednu touhu mám: s Tebou být, jen s tebou být, s Tebou žít, jen s Tebou žít.
 Ježíši, jsi spása duše mé, tak navěky Ti budu vzdávat chválu svou.
 
 \newsong{88|Hoden si mojej chvály}
-Hoden si mojej chvály,prijať všetku česť, moc a slávu.
+Hoden si mojej chvály, prijať všetku česť, moc a slávu.
 Hoden si spevu vďaky sŕdc, prijať život môj, nad ním vládu.
 Len Ty sám, Ježiš môj, vládu máš, som len Tvoj.
-Tebe rád, srdce dám, pieseň lásky rozpáľ v ňom.
+Tebe rád, srdce dám, pieseň lásky rozpáľ v ňom.
 
 \newsong{89|Chvalme Pána, vzývejme Ducha}
 Chvalme Pána, vzývejme Ducha neboť on mezi nás přichází.
 Volám, svatý, svatý, svatý Pán, Bůh zástupů, ten, který temnoty prozáří.
 
 \newsong{90|Vzdám Ti chválu}
-1. Vzdám Ti chválu, (vzdám Ti chválu) srdcom celým, (srdcom celým)
+1. Vzdám Ti chválu, (vzdám Ti chválu) srdcom celým, (srdcom  celým)
 Spievam pieseň (spievam pieseň) zo všetkých síl, (všetkých síl).
 2. Nájsť Ťa túžim (nájsť Ťa túžim) každý môj deň (každý môj deň),
-kráčať s Tebou (kráčať s Tebou), kam budeš chcieť, (kam Ty chceš).
+kráčať s Tebou (kráčať s Tebou), kam budeš chcieť, (kam Ty chceš).
 {REF} Tebe vzdávam česť a slávu, Tebe spievam pieseň chvál.
 Len Ty sám mi dávaš lásku, len Ty sám si hoden mojich chvál.
 3. Rád sa skláňam, (rád sa skláňam) Ty si môj Kráľ, (Ty si môj Kráľ,)
@@ -625,16 +629,16 @@ rád Ti slúžim (rád Ti slúžim), dám Ti všetko, čo mám, (všetko dám).
 trón) Ty si nádej, (Ty si nádej,) Tebe dám život svoj, (život svoj).
 
 \newsong{91|Chci Ti zpívat a tančit}
-{REF}Chci zpívat písně o lásce Tvé a tančit radostí,
-v nich jméno Tvé, jméno přesvaté mé srdce velebí.
+{REF} Chci zpívat písně o lásce Tvé a tančit radostí,
+v nich jméno Tvé, jméno přesvaté mé srdce velebí.
 1. Toužíš proměnit celý život náš, svojí láskou nás otvíráš,
 Duchem svým oheň zažíháš. Ty jsi Pán!
 2. Ano, Ty jsi Bůh, Ty jsi skála má, o kterou se rád opírám.
-Jenom v Tobě vítězství mám. Ty jsi Pán!
-3. Blízko těch, kteří Tebe hledají, s velkou věrností přebýváš.
+Jenom v Tobě vítězství mám. Ty jsi Pán!
+3. Blízko těch, kteří Tebe hledají, s velkou věrností přebýváš.
 Všechny jménem svým nazýváš. Ty jsi Pán!
 4. Když jsi Ty se mnou, není proč se bát, kroky mé vodíš po cestách.
-Jako světlo zářivé v tmách. Ty jsi Pán!
+Jako světlo zářivé v tmách. Ty jsi Pán!
 
 \newsong{92|Radostí jsi mou}
 1. Chválím slávu Tvou, můj Králi, toužím s Tebou kráčet dál.
@@ -646,17 +650,17 @@ můj úkryt, má skála. V mé nouzi přicházíš, jsi spása má.
 Radostí jsi mou, zpívám chválu svou.
 
 \newsong{93|Ty jsi můj Pán}
-Ty jsi můj Pán,Ty jsi můj Král a já Ti sloužit chci stále, aleluja, aleluja,
+Ty jsi můj Pán, Ty jsi můj Král a já Ti sloužit chci stále, aleluja, aleluja,
 ó aleluja amen. A když jsem sám, vím, že sám nejsem.
 Vím, že jsi se mnou stále, Pane můj, Pane můj. Amen.
 
 \newsong{94|Sláva Tvá (Majesty)}
 1. Beránku můj, skláním se před slávou Tvou,
 jsem tak svobodný před Tebou.
-Beránku můj, vyznávám se z hříchů svých, z lásky krví vykoupených.
+Beránku můj, vyznávám se z hříchů svých, z lásky krví vykoupených.
 Lásku Tvou našel jsem, Pane, mám Tě rád, Tys život za mě dal,
 když jsi na kříži umíral.
-{REF} Sláva Tvá, sláva Tvá, své prázdné ruce k Tobě pozvedám,
+{REF}  Sláva Tvá, sláva Tvá, své prázdné ruce k Tobě pozvedám,
 ve Tvém náručí vždy ožívám. Sláva Tvá, sláva Tvá,
 láskou změnils celý život můj, Beránku jsem navždy Tvůj.
 2. Beránku můj, skláním se před láskou Tvou, jež smývá každou vinu
@@ -665,24 +669,24 @@ vždy mít. Lásku Tvou našel jsem, Pane, mám Tě rád, Tys život za mě
 dal, když jsi na kříži umíral.
 
 \newsong{95|Hudba doznívá}
-1. Hudba doznívá,už není zač se skrýt, teď tu stojím sám.
+1. Hudba doznívá, už není zač se skrýt, teď tu stojím sám.
 Chci Ti něco dát, co svou cenu má, co Ty bys měl rád.
 Chci víc než píseň Ti dát, vždyť jen píseň pouhá není tím, co by sis přál.
-Ty zkoumáš hlubiny mé i to očím skryté, Ty vidíš, co v srdci mám.
-{REF} Vracím se zpět k jádru uctívání, kde jsi jedině Ty, jedině Ty, Ježíši.
+Ty zkoumáš hlubiny mé i to očím skryté, Ty vidíš, co v srdci mám.
+{REF} Vracím se zpět k jádru uctívání, kde jsi jedině Ty, jedině Ty, Ježíši.
 Nechci už míjet to nejvzácnější, to jsi jedině Ty, jedině Ty, Ježíši.
 2. Ty jsi věčný Král, kdo jen vyjádří, co Ti náleží? I když chudý jsem,
 vše, co mám, si vem, každý dech je Tvůj. Chci víc než píseň Ti dát,
 vždyť jen píseň pouhá není tím, co by sis přál. Ty zkoumáš hlubiny mé
-i to očím skryté, Ty vidíš, co v srdci mám.
+i to očím skryté, Ty vidíš, co v srdci mám.
 
 \newsong{96|Řeka Tvé lásky}
-Řeka Tvé lásky proudí k nám přes hory i přes oceán
+Řeka Tvé lásky proudí k nám přes hory i přes oceán
 a já své srdce otvírám, ať tvůj duch dotkne se mě sám.
 Mám radost, že smím v pravdě žít, vždy znovu ruce pozvedám,
-chci stále zpívat, jak Tvá láska přišla k nám.
+chci stále zpívat, jak Tvá láska přišla k nám.
 Navždy o lásce Tvé chci zpívat. Navždy o lásce Tvé chci zpívat.
-Mám sto chutí tančit, vím, že je to bláznivé, však až svět pozná slávu Tvou, radostí budou tančit všichni s námi.
+Mám sto chutí tančit, vím, že je to bláznivé, však až svět pozná slávu Tvou, radostí budou tančit všichni s námi.
 
 \newsong{97|Větší je náš Bůh}
 Vodu ve víno změnils, slepé oči uzdravil. Není žádný jako Ty, Bůh náš.
@@ -699,41 +703,43 @@ on ti všechny tvé nepravosti promíjí,
 ze všech nemocí uzdravuje tělo tvé,
 tebe korunuje svou milostí a slitováním. :/
 
-\newsong{121|Pane milostivý }Ty jsi hoden chvály, Pane milostivý, Tobě patří dík.
+\newsong{121|Pane milostivý}
+Pane milostivý Ty jsi hoden chvály, Pane milostivý, Tobě patří dík.
 
 \newsong{122|Vzdáváme Ti díky}
-{REF}Vzdáváme Ti díkyza Tvou něžnou lásku,
-pramen živý stéká z rány ve Tvém boku.
-Z něho může pít, kdo žízní a touží
-v Srdci Tvém se skrýt, začít nově žít.
+{REF} Vzdáváme Ti díky za Tvou něžnou lásku,
+pramen živý stéká z rány ve Tvém boku.
+Z něho může pít, kdo žízní a touží
+v Srdci Tvém se skrýt, začít nově žít.
 1. Bože, Tys můj Bůh, síla má a štít, jak vyprahlá země toužím Tobě žít.
 Hledám Tvoji lásku, život duše mé. Stále žízním po lásce Tvé.
-2. Když jen v Tebe doufám, na Tě pomyslím, Ty vždy odpovídáš
+2. Když jen v Tebe doufám, na Tě pomyslím, Ty vždy odpovídáš
 na mé volání. Ve stínu Tvých křídel plesá srdce mé.
 Stále žízním po lásce Tvé.
 3. Nekonečnou chválu zpívá duše má, ve Tvém svatém jménu dlaně
 pozvedám. Před trůnem Tvé slávy skláním srdce své.
 Stále žízním po lásce Tvé.
 
-\newsong{123|K Tobě, Pane, s díkem}
-1. K Tobě, Pane, s díkempřicházím,lásku, pokoj v duši nacházím.
-{REF} Tobě se znovu odevzdávám, Ty jsi můj Pán, buď vůle Tvá. 
+\newsong{123|K Tobě, Pane, s díkem}
+1. K Tobě, Pane, s díkem přicházím, lásku, pokoj v duši nacházím.
+{REF}  Tobě se znovu odevzdávám, Ty jsi můj Pán, buď vůle Tvá.
 Chvála Jezu, Spasiteli, chvála.
-2. Krok za krokem kráčím za Tebou, v dáli hledám správnou cestu svou.
+2. Krok za krokem kráčím za Tebou, v dáli hledám správnou cestu svou.
 3. Když zaváhám ve své slabosti, podpíráš mě mocí milosti.
 
-\newsong{124|Vzdej dík}
-/:Vzdej díkBohu, rád Tě má, vzdej dík, přidej píseň chval,
+\newsong{124|Vzdej dík }
+/:Vzdej dík Bohu, rád Tě má, vzdej dík, přidej píseň chval,
 vzdej dík, protože Ježíš je Tvůj Pán a Král. :/
 /: Tak věř, když jsi slabý, sílu máš a už nouzi nepoznáš,
 protože Pán Ježíš byl dán za nás. :/
 
-\newsong{125|Díky, můj Pane, za život můj, }díky, můj Pane, za život celého světa.
+\newsong{125|Díky, můj Pane, za život můj}
+Díky, můj Pane, za život můj, díky, můj Pane, za život celého světa.
 
 \newsong{126|Díky, Pane}
 1. Díky, Pane, že jsi tady s námi, díky za to, že Tě můžem znát.
 Díky, Pane, náš jediný Králi, díky za to, že nás máš tak rád.
-{REF}  Ty jsi jediný a všemohoucí Bůh,
+{REF} Ty jsi jediný a všemohoucí Bůh,
 Ty jsi Ježíš, Syn a také svatý Duch.
 2. Díky, Pane, za tenhleten den, díky za Tvou lásku zjevenou.
 Díky, žes mě z hříhu dostal ven, jméno Ježíš je tou cestou jedinou.
@@ -742,75 +748,78 @@ co jen můžem chtít. Díky, Pane, Ty nám dáváš zprávu,
 s tou zprávou máme ke všem lidem jít.
 
 \newsong{131|Ve ztišení}
-1. Ve ztišení k Tobě přicházím, v uctívání jsem Ti blíž.
-V tichosti tu, Ježíši, dnes očekávám přítomnost Tvou, toužím Tě znát víc.
+1. Ve ztišení k Tobě přicházím, v uctívání jsem Ti blíž.
+V tichosti tu, Ježíši, dnes očekávám přítomnost Tvou, toužím Tě znát víc.
 {REF} Toužím Tě znát, stále slyšet Tvůj hlas, víc a víc Tě znát.
 Chci se Tě dotknout, hledět na Tvoji Tvář, víc a víc Tě znát.
-2. Běžím k cíli, běžím za Tebou pro cenu, co získat mám. Běžím stále,
+2. Běžím k cíli, běžím za Tebou pro cenu, co získat mám. Běžím stále,
 každou těžkost, každý problém překonávám, toužím Tě znát víc.
-132. Sláva, Ježíš je Pán, Ježíš je králů Král.
+
+\newsong{132|Sláva, Ježíš je Pán}
+Sláva, Ježíš je Pán, Ježíš je králů Král.
 
 \newsong{133|Klaníme se před Tvou tváří}
-Klaníme se před Tvou tváří,ó Králi náš,
-spojil jsi nás v uctívání, ó Králi náš.
-Teď zní z našich úst jen chvály, jsme jedno a Ty jdeš s námi.
-Spojil jsi nás v uctívání, ó Králi náš.
+Klaníme se před Tvou tváří, ó Králi náš,
+spojil jsi nás v uctívání, ó Králi náš.
+Teď zní z našich úst jen chvály, jsme jedno a Ty jdeš s námi.
+Spojil jsi nás v uctívání, ó Králi náš.
 
-\newsong{134|Přiznej Pánu jeho moc}
-1. /:Přiznej Pánu jeho moca čest,vyznej Ho ústy
+\newsong{134|Přiznej Pánu jeho moc }
+1. /:Přiznej Pánu jeho moc a čest, vyznej Ho ústy
 a chval Ho srdcem svým.:/
-{REF} /:Náš Bůh je slitovný a spravedlivý, přímý a laskavý je Pán.:/
+{REF}     /:Náš Bůh je slitovný a spravedlivý, přímý a laskavý je Pán.:/
 2. /:Vždyť Bůh dává dary své a moc všem toužícím, těm, kdo poprosí.:/
 
-\newsong{135|Mé dlaně zvednuté}
-Mé dlaně zvednutépřijmi teď, Bože můj, tak jako večerní obětní dar. Modlitba má ať k Tobě stoupá tak jako vůně kadidlová.
+\newsong{135|Mé dlaně zvednuté }
+Mé dlaně zvednuté přijmi teď, Bože můj, tak jako večerní obětní dar. Modlitba má ať k Tobě stoupá tak jako vůně kadidlová.
 
 \newsong{136|Smím}
-/: Smímsklonit tvář,smím pokleknout, smím svatou zář zahlédnout. :/
-/: Smím k Tobě jít, smím s Tebou být, smím v srdci Tvém domov mít. :/ 
+/: Smím sklonit tvář, smím pokleknout, smím svatou zář zahlédnout. :/
+/: Smím k Tobě jít, smím s Tebou být, smím v srdci Tvém domov mít. :/
 /: Ty jsi svatý, svatý, svatý. :/
 
 \newsong{137|Pane, Ty víš všechno}
-/:Pane, Ty víš všechno,Ty víš, že Tě miluji:/. Amen, amen.
+/:Pane, Ty víš všechno, Ty víš, že Tě miluji:/. Amen, amen.
 
 \newsong{138|Má sílo}
-Má sílo,k Tobě vzhlížím, má sílo Tobě zpívám, neboť Ty, Bože, jsi útočiště mé, Pane můj, lásko má, Ty, Bože, jsi útočiště mé.
+Má sílo, k Tobě vzhlížím, má sílo Tobě zpívám, neboť Ty, Bože, jsi útočiště mé, Pane můj, lásko má, Ty, Bože, jsi útočiště mé.
 
 \newsong{139|Má sílo}
-Můj Pán Ježíš,On je náš Pán, miluje nás a žehná nám.
+Můj Pán Ježíš, On je náš Pán, miluje nás a žehná nám.
 Kde jsou dva anebo tři, tam je i Pán uprostřed nich.
 Pán zaslíbil, kde prosí dva, že každou věc On rád jim dá.
 
 \newsong{140|Veď mě cestou}
-/:Veď mě cestouTvého následování,
+/:Veď mě cestou Tvého následování,
 srdce mé naplň Svým vládnutím:/ /:Ať se Tvoje vůle ve mně rozhostí:/
 /:Ty jsi můj Pán, Ježíši, králů jsi Král nejvyšší, dnes vůle Tvá,
-jenom Tvá, pastýř jsi dobrý, jsi dobrý Pán.:/
+jenom Tvá, pastýř jsi dobrý,  jsi dobrý Pán.:/
 /:Ty jsi můj Pán, Ježíši, králů jsi Král nejvyšší, dnes vůle Tvá,
 jenom Tvá, jsi dobrý Pán.:/
 
-\newsong{141|Ó, Jezu}
+\newsong{141|Ó, Jezu }
 /: Ó, Jezu, :/ srdce své Ti dám.
 utiš žízeň mou.
-v Tobě sílu mám.
-buduj z nás svůj chrám.
+v Tobě sílu mám.
+buduj z nás svůj chrám.
 
 \newsong{142|Vyvyšuj svého Pána}
-Vyvyšuj svého PánaPána a klaněj se před trůnem
+Vyvyšuj svého Pána Pána a klaněj se před trůnem
 a klaněj se před trůnem, svatý je Bůh, svatý je Bůh.
 
 \newsong{143|Je stále přítomná}
-Je stále přítomnáTvoje sláva, radostně zpíváme o Tvém díle.
+Je stále přítomná Tvoje sláva, radostně zpíváme o Tvém díle.
 Písnička ať zvoní každé chvíle, já tě chválím, Pane můj, jak jenom umím.
 
 \newsong{144|Sláva Pánu Ježíši}
-Sláva Pánu Ježíši,Pán přichází k nám, s láskou a s požehnáním,
-sláva Ježíš je Král, sláva buď,sláva buď, je Král.
+Sláva Pánu Ježíši, Pán přichází k nám, s láskou a s požehnáním,
+sláva Ježíš je Král, sláva buď, sláva buď, je Král.
 
-\newsong{145|Buď vůle Tvá }Bože Otče, Tvá vůle ať se stane mým pokrmem.
+\newsong{145|Buď vůle Tvá Bože Otče}
+Buď vůle Tvá Bože Otče, Tvá vůle ať se stane mým pokrmem.
 
 \newsong{146|Ježíš, nejkrásnější}
-1. Ježíš, nejkrásnějšíze všech jmen, Ježíš slyší hlas můj každý den.
+1. Ježíš, nejkrásnější ze všech jmen, Ježíš slyší hlas můj každý den.
 Ó Ježíš mne v mém pádu pozvedá, ó Ježíš krásné jméno má.
 2. Ježíš, chválu vzdává srdce mé, Ježíš, stále stejný, včera, dnes.
 Ó Ježíš, zemřel též za hříchy mé, ó Ježíš, nejkrásnější z jmen.
@@ -818,14 +827,14 @@ sláva Ježíš je Král, sláva buď,sláva buď, je Král.
 Ó Ježíš, jemu chválu zazpívám, /:ó Ježíš krásné jméno má. :/
 
 \newsong{147|Blízkost Tvé tváře}
-Blízkost Tvé tváře mě naplňuje radostí, vrcholem radosti je být s Tebou.
+Blízkost Tvé tváře mě naplňuje radostí, vrcholem radosti je být s Tebou.
 
 \newsong{148|Ať se Ti koří celá země}
-Ať se Ti koří celá země,Pane můj, ať Ti zpívá.
+Ať se Ti koří celá země, Pane můj, ať Ti zpívá.
 Ať Tě oslavují všechny národy. Aleluja.
 
 \newsong{149|Tak, jak jsi slíbil}
-Tak, jak jsi slíbil,přišels, tak jak jsi řekl, jsi zde,
+Tak, jak jsi slíbil, přišels, tak jak jsi řekl, jsi zde,
 my toužíme Ti říci dnes, že ctíme Tě, milujeme, buď vítán, Pane.
 
 \newsong{150|Vyvyšuji Tě}
@@ -838,7 +847,7 @@ před ní padá každá touha po vlastním uznání.
 2. Nikdy nekončící milost umí vzít a umí dát, nikdy nekončící milost
 mě učí pevně stát, nikdy nekončící milost srdci rytmus udává,
 žiju pro ni a ona ve mně svůj domov má.
-{REF}Dokud dýchám, uslyšíš můj hlas. Dokud dýchám,
+{REF} Dokud dýchám, uslyšíš můj hlas. Dokud dýchám,
 nechci ztrácet drahý čas. Dokud dýchám, rád se dívám na ten cíl.
 Dokud dýchám, že i ve mně Ježíš zvítězil. (On sám.)
 …. žes i ve mně, Pane, zvítězil.
@@ -857,18 +866,19 @@ Požehnaný, požehnaný, požehnaný, Tebe uctívám.
 Ježíši, Ty jsi můj Pán, Ježíši, Ty jsi můj Král. Dávám Ti celé srdce své. Dávám Ti celý život svůj. Vládni mi, Ježíši, vládni mi, stvoř mi nové srdce, Ty jsi Pán. Ježíši, vládni mi, Ježíši, vládni mi,
 můj život patří teď už jen Tobě.
 
-\newsong{154|Kéž každý z nás }v úctě pokleká, své srdce sklání a otvírá.
-Sám králů Král s námi přebývá, jen k Jeho slávě zní píseň jásavá.
+\newsong{154|Kéž každý z nás v úctě pokleká, své srdce sklání a otvírá.}
+Sám králů Král s námi přebývá, jen k Jeho slávě zní píseň jásavá.
 
-\newsong{155|Ježíš, nad každé jméno, }drahý Spasitel, vítěz a Král,
-Immanuel, Bůh je s námi, náš Vykupitel, živé Slovo.
+\newsong{155|Ježíš, nad každé jméno, drahý Spasitel, vítěz a Král,}
+Immanuel, Bůh je s námi, náš Vykupitel, živé Slovo.
 
 \newsong{156|Boží Beránku}
 /: Boží Beránku, jen Tobě patří čest. :/
 Tvá velebnost a moc naplní celý svět, když Ty usedneš na svůj trůn
 a národy se Tobě vděčně pokloní, jsi slunce spravedlnosti.
 
-\newsong{157|Má víra }to je Ježíš, má naděje můj Pán, má láska i má radost,
+\newsong{157|Má víra}
+Má víra to je Ježíš, má naděje můj Pán, má láska i má radost,
 já na něj čekám dál a on se vrátí, vrátí, já vím, on se vrátí.
 
 \newsong{158|Kéž má duše}
@@ -882,49 +892,41 @@ ať můj jazyk zpívá slovo Tvé, Hospodine, toužím po spáse Tvé.
 1. Své srdce otvírám a všechno, co je v něm, před Tebe předkládám,
 Králi, vše, co mám, si vem. Teď dávám svoje sny, svá práva odkládám,
 svou pýchu odmítám, když nový život mám.
-{REF} /: Ty sám mi vládni, Tvůj chci být, Tvůj chci být. :/
+{REF}/: Ty sám mi vládni, Tvůj chci být, Tvůj chci být. :/
 2. Teď zpívám píseň svou, u kříže spočívám, co světu drahé je,
 za ztrátu počítám. Vždyť Tebe poznávám, Tvou slávu nádhernou
 a radost můžu znát i sdílet bolest Tvou.
 
 \newsong{160|Pane můj, Ty jediný}
-Pane můj, Ty jedinýa vzácný, Pane můj, Ty jediný, svatý Králi,
+Pane můj, Ty jediný a vzácný, Pane můj, Ty jediný, svatý Králi,
 s láskou Tě chválím, s úctou se skláním.
 Ty Pán jsi můj, Ty Pán jsi můj, jediný.
 
 \newsong{161|Agnus Dei (Aleluja)}
 /: Haleluja, haleluja, neboť Bůh všemocný vládu má.:/
-Haleluja, svatý, svatý, svatý Pán Bůh všemohoucí, hoden je On sám, Beránek a Pán uctívání, svatý. Amen.
-
-\newsong{162|Nade vše}
-Nade vší mocí, nad proudem řek, nad modrým nebem, co nemá počátek,
-Nad vší slávou, co může člověk mít, Ty jsi ten, kdo hrad je můj i štít.
-Nad každý poklad, nad každý sen, nad všechny krále Ty sám jsi vyvýšen
-Byls jak růže, co člověk zahodí. Ty jsi Bůh, já ten, kdo uhodí.
-{REF}  Nám jsi dal lásku svou a kříž. Žít jsi měl, byl jsi na obtíž.
-Pro můj hřích smrt jsi podstoupil, vím, to kvůli mně, bych směl žít. 
-Jsi můj štít.
+Haleluja, svatý, svatý, svatý Pán Bůh všemohoucí, hoden je On sám, Beránek a Pán uctívání, svatý.  Amen.
 
 \newsong{180|Ježíši, Beránku}
-1. Ježíši, Beránku,čistý a nevinný, nebe jsi opustil jen kvůli nám.
+1. Ježíši, Beránku, čistý a nevinný, nebe jsi opustil jen kvůli nám.
 Byl jsi tak poslušný, tichý a pokorný, víc nežli život svůj měl jsi nás rád.
-{REF}  Toužím mít srdce Beránka, srdce pokorné.
-Vítám slovo z Tvých úst:
+{REF} Toužím mít srdce Beránka, srdce pokorné.
+Vítám slovo z Tvých úst:
 ostrý meč, kterým odřízneš to, co ovoci stíní a brání zdravě růst.
 2. Být silný slabostí, láskou a mírností, ochotný ke službě bez reptání.
 Ve všem svém jednání chci Ti být podobný,
-dojít až k domovu v Tvých šlépějích.
+dojít až k domovu v Tvých šlépějích.
 
 \newsong{181|Jezu}
+Jezu
 
 \newsong{182|Píseň spasených}
-{REF}: /:Hoden je Beránek nejvyšší chvály, On nás vykoupil Svou krví.:/
+{REF} /:Hoden je Beránek nejvyšší chvály, On nás vykoupil Svou krví.:/
 1. /:Jenom Ty jsi navěky král, jenom Tobě patří sláva, Pane náš.:/
 2. /:Budeme jásat nad Tvým vítězstvím, prapory pozdvihnem
 ve jménu svého Boha.:/
 
 \newsong{183|Jsi život můj}
-Jsi život můj,mé spasení, nádherná píseň teď v mém srdci zní.
+Jsi život můj, mé spasení, nádherná píseň teď v mém srdci zní.
 /: Mám Tě rád, mám Tě rád, mám Tě rád, Pane můj, víc než dřív,
 Ty víš, že mám Tě rád.:/
 
@@ -932,16 +934,16 @@ Ty víš, že mám Tě rád.:/
 1. Kristus Pán, Boží Syn, spasil nás, zbavil vin, vzal můj hřích.
 Život svůj šel dát, abych se stal spravedlivým a uvěřil:
 Jeho krev spásu nám dává a léčí.
-{REF}Tobě vzdáváme dík, Bože, Beránku náš, blízkost nám útěchu dává.
+{REF} Tobě vzdáváme dík, Bože, Beránku náš, blízkost nám útěchu dává.
 Jsi jediný, Vykupitel, jsi můj Král. Tobě vzdáváme dík, Boží Beránku,
 před Tvým trůnem svoje srdce skláníme.
-2. Milost svou dal jsi nám, z bolesti, z těžkých ran.
-Krví svou vykoupil jsi nás, abych poznal Tvou lásku k nám a uvěřil,
+2. Milost svou dal jsi nám, z bolesti, z těžkých ran.
+Krví svou vykoupil jsi nás, abych poznal Tvou lásku k nám a uvěřil,
 že Tvoje blízkost nám útěchu dává.
 
 \newsong{185|Ježíš je má skála}
 /:Ježíš je má skála, On je moje spasení,
-v něho doufám, On je štítem mým. :/
+v něho doufám, On je štítem mým. :/
 /: Haleluja, On je štítem mým. :/
 /:Ježíš je mým Pánem, nikdy mě neopustí, On je věrný, důvěru mou má.:/
 /: Haleluja, důvěru mou má. :/
@@ -956,17 +958,18 @@ Znovu díky vzdávám, znovu Ti svůj život chci dát.
 2. Vyvýšen teď vládneš Králi v nebesích, tam před Tvým trůnem
 i já budu stát. Radost mám, že získal jsi mi spasení,
 a znovu má chvála Ti zní.
+
 /: Díky za Tvůj kříž, díky za Tvůj kříž, díky za tvé přátelství.:/
 
 \newsong{187|Tvá tvář}
-{REF} Tvá tvářje mou vlastí jedinou a v ní je mé království lásky,
+{REF} Tvá tvář je mou vlastí jedinou a v ní je mé království lásky,
 Tvá tvář je mou loukou rozkvetlou, je mým sluncem každodenním.
 1. Ježíši, Tvůj obraz nepopíši, mým krokům však směr dá;
 jak hvězda vede je ve výši, ve Tvé tváři už duše nebe má.
 2. Tvá tvář, lilie v údolí, která svou vůni tajemnou do mé duše vyhoštěné
 vlévá pokoj svůj, útěchu nebeskou.
 3. Tvá tvář, můj poklad jediný, Ježíši nic víc už nežádám,
-v ní se ukrývat, nedbat dní, Tobě být stále víc podobná.
+v ní se ukrývat, nedbat dní, Tobě být stále víc podobná.
 4. Tvá tvář o Spasiteli můj, je mým pokojem, slastí mou,
 je mým božským kvítkem myrhovým,
 tím, který chránit chci na srdci svém.
@@ -974,13 +977,13 @@ tím, který chránit chci na srdci svém.
 pak stanu se svatou, Tobě se srdce lidí otevřou.
 
 \newsong{188|Immanuel}
-Svaté jméno máš, Immanuel, Bůh je s námi, Spasiteli náš,
+Svaté jméno máš, Immanuel, Bůh je s námi, Spasiteli náš,
 neobstojí pekel brány, svatou krví Tvou očištěni, vykoupeni,
-pomazaní jdou ve vítězství dobýt zemi k slávě Tvé.
+pomazaní jdou ve vítězství dobýt zemi k slávě Tvé.
 Immanuel, Immanuel, /: Ješua Immanuel, Ješua Immanuel. :/
 
 \newsong{189|Jako laň}
-1. Jako laň,která touží pít z pramene, tak duše má hledá, Bože, Tebe.
+1. Jako laň, která touží pít z pramene, tak duše má hledá, Bože, Tebe.
 Vodo života, žízní duše má,
 /:kdy přijdu k Tobě blíž, svou tvář mi odhalíš. :/
 2. Dík, že Tvé světlo, Pane, a pravda Tvá, těm, kteří hledají, směr udává.
@@ -1002,7 +1005,7 @@ až do konce všech svých dní, chval Adonai všechny země, národy,
 všichni andělé, svatí, tak chval Adonai.
 
 \newsong{192|Jen Tvá je moc}
-{REF} Jen Tvá je moca sláva, jen Tvá je čest a síla,
+{REF} Jen Tvá je moc a sláva, jen Tvá je čest a síla,
 velká velebnost Tvá, ó Lásko věčná!
 1. Beránku obětní, za naše spasení, svoji Krev proléváš za život náš.
 2. Otec Tě oslavil, nové jméno Ti dal, Ty jsi jediný Král, Spasitel náš.
@@ -1011,7 +1014,7 @@ velká velebnost Tvá, ó Lásko věčná!
 \newsong{193|Na vlnách}
 1. Voláš mne, pojď, po vlnách kráčej, nevím, jak jít, nevím, jak stát.
 Odvahu dáváš nejistému, v těch hlubinách vedeš mě sám.
-{REF}  Jménem Tvým tě zavolám. Ty dáváš moc uniknout vlnám,
+{REF} Jménem Tvým tě zavolám. Ty dáváš moc uniknout vlnám,
 (když voda stoupá,) duše má v tobě spočívá, já jsem tvá a ty jsi můj.
 2. Nadějí hloubku překonávám, tvá mocná dlaň mě provází.
 Když klopýtám, chybí mi síla, ty zůstáváš, pevnost nacházím.
@@ -1021,36 +1024,37 @@ a dál po vodě kráčel. Veď mne dál, než kam bych já si jít kdy přál,
 ty víru jsi mi dal, chci jít tam, kde vládneš sám.
 
 \newsong{210|Ať Hospodin Ti požehná}
-Ať Hospodin Ti požehnáa každý den Tě chrání. 4x
+Ať Hospodin Ti požehná a každý den Tě chrání. 4x
 A pokoj jeho ať zůstává a naplňuje život Tvůj.
 A Ježíšova krev ať Tě obmývá. Buď sláva mu na věky věků!
 
 \newsong{211|Tys můj skalní štít}
-/:Tys můj skalní štíta pevná tvrz má. Veď mne pro své jméno
+/:Tys můj skalní štít a pevná tvrz má. Veď mne pro své jméno
 a doveď mě k cíli.:/
-​/:Vysvoboď mě z rukou nepřátel a těch, kdo pronásledují mne,
+/:Vysvoboď mě z rukou nepřátel a těch, kdo pronásledují mne,
 kéž nejsem zahanben, když Tě, Hospodine, volám.:/
 
 \newsong{212|Kéž Hospodin Tě posvětí}
-Kéž Hospodin Tě posvětía chrání a Tvé duši stále odkrývá svou lásku,
+Kéž Hospodin Tě posvětí a chrání a Tvé duši stále odkrývá svou lásku,
 ať prozáří Tvou cestu svojí tváří a do srdce Ti vkládá pokoj svůj.
 
 \newsong{213|Tebe, Pane, prosím}
-Tebe, Pane, prosím,o Tvou sílu prosím.
+Tebe, Pane, prosím, o Tvou sílu prosím.
 Tebe, Pane, prosím, oslav se na mně jen prosím,
 
 \newsong{214|Veď mě stále blíž}
-Veď mě stále blíž,nechci sám už být.
+Veď mě stále blíž, nechci sám už být.
 Chci s Tebou zůstat stůj co stůj a slyšet, že jsem přítel Tvůj.
 Ty jsi touha má, jen a jen Ty sám.
 Nic nenahradí blízkost Tvou, když paže Tvé mě obejmou.
 Zjev mi cestu svou, Tobě vstříc chci jít. Jsi vším, co mám,
 jsi vším, co žít mi dává. Jsi vším, co mám, dej mi svou blízkost znát.
 
-\newsong{215|Osvoboď nás pravdou, }obnov tvář země. 3x
+\newsong{215|Osvoboď nás pravdou}
+Osvoboď nás pravdou, obnov tvář země. 3x
 
 \newsong{216|Srdce čisté}
-{REF} Srdce čistéstvoř mi, Bože, aby tak mohlo jen pro tebe bít.
+{REF} Srdce čisté stvoř mi, Bože, aby tak mohlo jen pro tebe bít.
 Vytrvalost obnov ve mně, už chci jen pro Tebe naplno žít.
 1. Otevři mé rty pro chválu Tvou. Buď Pánem mé duše, prosím s pokorou.
 2. Všechnu svou radost chci hledat v Pánu. Touhu on vyplní srdci mému.
@@ -1058,7 +1062,7 @@ Vytrvalost obnov ve mně, už chci jen pro Tebe naplno žít.
 kdy to pochopím.
 
 \newsong{217|Vzývám}
-Vzývám,vzývám, svaté jméno Tvé, Ty, Pane, víš,
+Vzývám, vzývám, svaté jméno Tvé, Ty, Pane, víš,
 abys nám byl blíž, vzývám.
 
 \newsong{218|Vzývám jméno Tvé}
@@ -1066,18 +1070,18 @@ Vzývám jméno Tvé, Pane můj, Lásko má.
 Vzývám jméno Tvé, Ježíši, zvítězils.
 
 \newsong{219|Králi, milost nám dej}
-Králi, milost nám dej,přijď a uzdrav naši zem, očist ji svým Duchem, uzdrav dotykem, klaníme se, vzýváme jméno Tvé,
-ó Pane, přijď s láskou svou sem k nám.
+Králi, milost nám dej, přijď a uzdrav naši zem, očist ji svým Duchem, uzdrav dotykem, klaníme se, vzýváme jméno Tvé,
+ó Pane, přijď s láskou svou sem k nám.
 
 \newsong{220|Přijď království Tvé}
-Přijď království Tvé3x. Amen.
+Přijď království Tvé 3x. Amen.
 
 \newsong{221|Obklop mě}
 1. /: Jako řeka mě unášíš do svých hlubin. Tvoje vlny se převalí po suchých polích. Tvoje mocné proudy ať mě pohltí, všechny
 Tvé vůně, vším čím jsi.:/
 {REF}/:Obklop mě svou svatou blízkostí. :/ 4x
 /: Není žádný jako Ty, nikdo neudělá to, co Ty, o Tvoji lásku se opírám. Není žádný jako Ty, Tvoje sláva přichází, když Tě chválím, Ježíši.
-/:Po Tobě touží, duše má:/ 8x
+/: Po Tobě touží, duše má:/ 8x
 
 \newsong{222|Přijď, uzdravuj}
 Přijď, Pane můj, přijď mezi nás, přijď, Pane můj, uzdravuj.
@@ -1086,14 +1090,14 @@ Přijď, uzdravuj, přijď, utěšuj, přijď, Pane náš, uzdravuj.
 Haleluja. Přijď Slovem svým uzdravuj.
 
 \newsong{223|Uzdravuj}
-Uzdravujmě ze všech strachů, uzdravuj, uzdravuj.
-Uzdravuj mě z malé víry, uzdravuj, uzdravuj.
+Uzdravuj mě ze všech strachů, uzdravuj, uzdravuj.
+Uzdravuj mě z malé víry, uzdravuj, uzdravuj.
 Uzdravuj mě ze všech hříchů, uzdravuj, uzdravuj!
 Ó Pane můj, uzdravuj!
 
 \newsong{224|Ten kdo touží pít}
-{REF}Ten kdo touží pít,ať ke mně neváhá jít,
-/: vždyť z mého Srdce pramen vyvěrá, který všem nový život dá.:/
+{REF} Ten kdo touží pít, ať ke mně neváhá jít,
+/: vždyť z mého Srdce pramen vyvěrá, který všem nový život dá.:/
 1. Ať se poušt i suchopár plní veselím, ať pustina kvete bujným kvítím,
 můj národ slávu Hospodina uvidí, nádheru a vznešenost Boží.
 2. Ať se vaše kolena i ruce posilní, nepokojným srdcím pojďte říct:
@@ -1101,37 +1105,38 @@ můj národ slávu Hospodina uvidí, nádheru a vznešenost Boží.
 3. Tehdy oči slepých jasně uvidí, uši hluchých jasně uslyší,tehdy kulhavý
 jako jelen poskočí, němý bude křičet radostí.
 4. Na poušti vytrysknou prameny vodní, na pustině potoky a říčky,
-vyprahlá zem se v močál promění a v zahradu země žíznící.
+vyprahlá zem se v močál promění a v zahradu země žíznící.
 5. Bude tam i cesta, které “svatá“ říkají, a po ní nepůjde nečistý,
-s jásotem po ní půjdou vysvobození, dojdou radosti a veselí.
+s jásotem po ní půjdou vysvobození, dojdou radosti a veselí.
 
 \newsong{225|Ty jsi mi vším}
 1. Jsi silou mou, když umdlévám, jsi poklad, který nalézám.
 Ty jsi mi vším, co mám. Klenotem vzácným ses mi stal,
 jsi moje láska, jsi ůj Král. Ty jsi mi vším, co mám.
-{REF}  /:Králi, Beránku, chválím jméno Tvé. :/
+{REF} /:Králi, Beránku, chválím jméno Tvé. :/
 2. Vzal jsi můj hřích, můj kříž, můj žal. Tobě vzdám díky, že jsem vstal.
 Ty jsi mi vším, co mám. Když padám, Ty mne pozvedáš,
 v poušti mi pohár doléváš. Ty jsi mi vším, co mám.
 
 \newsong{226|Veď mě, Pane můj}
-1. Veď mne, Pane můj,veď mne k sobě blíž,
+1. Veď mne, Pane můj, veď mne k sobě blíž,
 abych, Pane můj, měl sílu nést svůj kříž.
-{REF}  Toužím za tebou jít, svůj život chci Ti dát,
+{REF} Toužím za tebou jít, svůj život chci Ti dát,
 jsi má láska, má naděje, můj Bůh. Je radost pro Tebe žít,
-jako vítěz v boji stát, jsi má láska, má naděje, můj Bůh.
+jako vítěz v boji stát, jsi má láska, má naděje, můj Bůh.
 2. Veď mne, Pane můj, po svých cestách dál, stále při mně stůj,
-jen v Tobě sílu mám.
+jen v Tobě sílu mám.
 
 \newsong{227|Rozjasni svou tvář}
-Rozjasni svou tvářnad svým služebníkem, v milosrdenství svém
+Rozjasni svou tvář nad svým služebníkem, v milosrdenství svém
 mě zachraň. /: Hospodine, kéž nejsem zahanben, když Tě volám.:/
+
 Stvoř mi srdce čisté, nepočítej hřích můj,
-veď mě pro své jméno až k cíli.
-/: Hospodine, teď vyznám: Pán jsi můj, v Tebe doufám. :/
+veď mě pro své jméno až k cíli.
+/: Hospodine, teď vyznám: Pán jsi můj, v Tebe doufám. :/
 
 \newsong{228|Králi můj, Tebe hledám}
-1. Králi můj, Tebe hledám,v tichosti o slovu Tvém rozjímám.
+1. Králi můj, Tebe hledám, v tichosti o slovu Tvém rozjímám.
 Jako jelen dychtí po čistých vodách,
 po Tobě, po vodě Tvé žízeň mám.
 {REF} Proč se tak rmoutíš, duše má?
@@ -1140,10 +1145,10 @@ Na Boha čekej, duše má! Opět jen Jemu, své Spáse, chválu vzdám.
 2. Kéž světlo Tvé, Bože, vidím. Když nevím, kudy mám jít, veď mě dál.
 Až před příbytek Tvůj, kde mě čekáš, tam opět radost a mír nalézám.
 
-\newsong{229|Smiluj se, Pane}
-1. Smiluj se, Pane,pro lásku svou. Tvář svou skloň ke mně, smyj vinu
+\newsong{229|Smiluj se, Pane }
+1. Smiluj se, Pane, pro lásku svou. Tvář svou skloň ke mně, smyj vinu
 mou. Stále svým hříchem šířím zlé, mám málo síly, neodmítej mne.
-{REF} Pravdu máš v lásce, mou duši prozkoumáváš,
+{REF} Pravdu máš v lásce, mou duši prozkoumáváš,
 mým srdcem hříšným nepohrdáš, Pane můj.
 Čistotu dáváš, jak bílý sníh se stávám.
 Otvírám ústa, ať stále Tebe chválí.
@@ -1152,28 +1157,31 @@ Tvůj Svatý Duch, tónem svých polnic mne probouzej,
 mé suché kosti zase pozvedej.
 
 \newsong{230|Tvé světlo ve tmě svítí}
-/:Tvé světlo ve tmě svítí,žádná tma ho nepohltí.:/
+/:Tvé světlo ve tmě svítí, žádná tma ho nepohltí.:/
 /:Proto zvu Tě, Pane, do temnot svých.:/
-231. Při mně stůj
+
+\newsong{231|Při mně stůj}
 Při mně stůj, ó můj, Pane, vzácný, dávej mi znát, ó svatou vůli svou.
+
 /:Já toužím chválit Tě, já toužím oslavovat svaté jméno Tvé,
 toužím žít život svůj v přítomnosti Tvé.:/
-232. Uzdrav svou zem
+
+\newsong{232|Uzdrav svou zem}
 1. Jestli můj lid chce pokorným být a v modlitbě bude stát,
 jestli můj lid chce hledat mou tvář, zlých skutků se varovat.
 Tehdy je uslyším, viny odpustím, tehdy je uslyším,
 jejich zem uzdravím.
 {REF} Pane, uzdrav svou zem, Otče, uzdrav svou zem,
 slyš nářek náš a obrať k sobě národ náš.
-Pane, uzdrav svou zem, vyslyš nás, Pane, uzdrav svou zem. 
+Pane, uzdrav svou zem, vyslyš nás, Pane, uzdrav svou zem.
 Odpusť náš hřích a uzdrav zraněnou zem.
 2. My jsme Tvůj lid, chcem pokorní být a v modlitbě chcem stát.
 Naše přání je hledat Tvou tvář, zlých skutků se varovat.
 Smiluj se nad námi, odpusť hřích nám všem,
 smiluj se nad námi, Pane, uzdrav svou zem.
 
-\newsong{250|Toužím s Tebou být}
-Toužím s Tebou být,toužím velebit svaté jméno Tvé,
+\newsong{250|Toužím s Tebou být}
+Toužím s Tebou být, toužím velebit svaté jméno Tvé,
 toužím zakusit Tvoji svatost, tolik, tolik velikou.
 Pane, přijmi dnes, dlaně mé zvednuté, přijmi dík, přijmi chválu,
 Pane, můj Králi nejvyšší. Pane, /:sešli pokoj svůj, Pane, sešli uzdravení. Pane, my Tě chválíme, voláme dnes: „Ježíš je náš Pán.“:/
@@ -1183,33 +1191,34 @@ Pane, můj Králi nejvyšší. Pane, /:sešli pokoj svůj, Pane, sešli uzdraven
 zbavit všech pout! Vždyť jsem tvůj Bůh, Stvořitel tvůj,
 něhou tě chci zahrnout.
 1. Lůno tvé matky jsem ozdobil životem, od věků chtěl jsem tě mít.
-Pro tvoji záchranu všechno jsem daroval. Z pramene spásy pojď pít.
-2. Já budu s tebou po všechny dny života, já jsem tě za ruku vzal.
+Pro tvoji záchranu všechno jsem daroval. Z pramene spásy pojď pít.
+2. Já budu s tebou po všechny dny života, já jsem tě za ruku vzal.
 Pro mne jsi Izrael, tebe jsem vyvolil, už nemáš, proč by ses bál.
 3. Nebeskou klenbu i hluboký oceán stvořil jsem pravicí svou.
 Všechno jsem učinil, spasil a vykoupil. Věř: kráčím s tebou i tmou.
-4. Skloní se panovník, až půjdu před tebou, nebude v tvé tváři stín.
-Brány se otevřou, kdo by chtěl zápolit s tím, kdo je miláčkem mým.
+4. Skloní se panovník, až půjdu před tebou, nebude v tvé tváři stín.
+Brány se otevřou, kdo by chtěl zápolit s tím, kdo je miláčkem mým.
 5. Svěřím ti poklady, chci ti dát bohatství, vždyť jsi můj, tebe mám rád!
 Zjevím ti ukryté, to abys pochopil, jak dobré je při mně stát.
 
 \newsong{252|Půjdeš-li pouští}
-Půjdeš-li pouští,tvou stopu neztratím.
+Půjdeš-li pouští, tvou stopu neztratím.
 Půjdeš-li vodou, nestrhne tě proud.
 Půjdeš-li ohněm, plamen tě nespálí.
 Svítím ti na cestu, půjdeš-li tmou.
+
 Ať jdeš kamkoli, kamkoli - já jdu s tebou.
 Ať jsi kdekoli, kdekoli - já jsem s tebou.
 
 \newsong{253|Můj Bůh je můj štít}
-/:Můj Bůh je můj štít,je mou písní, já vím, On mi odpoví
+/:Můj Bůh je můj štít, je mou písní, já vím, On mi odpoví
 a mocí svého jména vysvobodí.:/
 Chci žít ve stínu křídel Tvých, spěchám do stínu křídel tvých,
-smím žít ve stínu křídel Tvých. Teď smím jít v pokoji dál,
+smím žít ve stínu křídel Tvých. Teď smím jít v pokoji dál,
 vím, že jsi mi blízko, haleluja.
 
 \newsong{254|Každý den je den milosti}
-1. Každý den je den milosti,každý den je den milosti,
+1. Každý den je den milosti, každý den je den milosti,
 každý den je den milosti, když jej celý Pánu Bohu odevzdáš.
 2. Každý den je den vítězství...
 3. Každý den je den radosti...
@@ -1217,7 +1226,7 @@ každý den je den milosti, když jej celý Pánu Bohu odevzdáš.
 je den radosti, když jej celý Pánu Bohu odevzdáš.
 
 \newsong{255|Ó, Hospodine, jsi má skrýš}
-{REF}  /:Ó, Hospodine, jsi má skrýš, Bůh,v něhož doufám.:/
+{REF} /:Ó, Hospodine, jsi má skrýš, Bůh, v něhož doufám.:/
 1. Kdo beze strachu přečká noc, chráněn ode všeho zlého?
 /: Jen ten, kdo v Bohu má svou skrýš, ve stínu všemocného.:/
 2. Kdo nemusí se moru bát, šípu střelce zákeřného?
@@ -1238,34 +1247,33 @@ nejkrásnější chvíle vždycky jsou na kolenou.
 \newsong{257|Toužím, po Tobě toužím}
 1. Toužím, po Tobě toužím, toužím Tě poznávat,
 Tvou láskou, věčnou láskou nechat se objímat.
-{REF} Bože, má spáso, veď mě dál, v nádvořích Tvých chci být i já.
+Ref.: Bože, má spáso, veď mě dál, v nádvořích Tvých chci být i já.
 2. Hledám, Tebe hledám, křídla Tvá jsou skrýší mou,
 chválím, Tebe chválím, objímáš mě mocí svou.
-
-\newsong{258|Do stínu křídel Tvých}
+258. Do stínu křídel Tvých
 Do stínu křídel Tvých se ukrývám, do lásky Tvé, do slitování,
 do stínu křídel Tvých se ukrývám, ó Bože náš, Bože náš,
 chráníš nás, Ty sám, Ty sám.
 
-\newsong{259|Jen v Bohu se ztiší duše má}
-{REF} Jen v Bohu se ztiší dušemá, vždyť jen z Něho vzejde mi spása.
+\newsong{259|Jen v Bohu se ztiší duše má}
+{REF} Jen v Bohu se ztiší duše má, vždyť jen z Něho vzejde mi spása.
 /: On sám je má skála, má tvrz nedobytná, :/
 On je jistota má má, záchrana má,
 On je jistota má, jediná.
 1. Můj lide, jenom Bohu vždy důvěřuj, stále Ho hledej, při něm stůj.
 Před Ním vylévej své srdce, On je tvé útočiště, tak už se nestrachuj,
 dej mu život svůj.
-2. A srdce tvé ať nepřilne k bohatství, jen k marným touhám, k násilí.
+2. A srdce tvé ať nepřilne k bohatství, jen k marným touhám, k násilí.
 Před Ním je to pouze marnost, jen světa vánek pouhý,
 On všechno o nás ví, lásku nabízí.
 
 \newsong{260|Do tvých starostí}
-/:Do tvých starostí,smutků, úzkostí
-přišel Ten, jenž rád tě má a z nich tě vyprostí.:/
+/:Do tvých starostí, smutků, úzkostí
+přišel Ten, jenž rád tě má a z nich tě vyprostí.:/
 /: Pánů Pán, králů Král byl nám bez rozdílu všechněm darován.:/
 
-\newsong{261|Jen v Kristu}
-1. Jen v Kristu mám naději svou, je světlem mým i písní mou.
+\newsong{261|Jen v Kristu}
+1. Jen v Kristu mám naději svou, je světlem mým i písní mou.
 Ta pevná zem, ta skála skal, v žáru i v bouři úkryt znám.
 Jen pokoj Tvůj, jen láska Tvá, jen ta můj strach vždy přemáhá.
 Zachránce můj, v něm všechno mám, v Kristově lásce smím tu stát.
@@ -1293,68 +1301,68 @@ získat vírou jen spravedlnost Tvou, která zdarma je, ne zásluhou.
 3. Poznávat chci moc Tvého vzkříšení, v utrpení stát Ti stále blíž,
 v smrti podoben Tobě, Pane můj, dojít vzkříšení a věčně žít.
 
-\newsong{263|K pramenům}
-Jak žárem vyprahlá země touží pít i já k Tvým pramenům
-chci s vírou jít, v Tvé náruči se skrýt, Tvou láskou žít.
+\newsong{263|K pramenům}
+Jak žárem vyprahlá země touží pít i já k Tvým pramenům
+chci s vírou jít, v Tvé náruči se skrýt, Tvou láskou žít.
 
 \newsong{264|Zpívat píseň lásky smím}
-Zpívat píseň lásky smímsvému Pánu, svému Králi.
+Zpívat píseň lásky smím svému Pánu, svému Králi.
 Vděčný jsem, když přijdeš k nám za Tvou přízeň, za Tvou blízkost.
-Jsem rád, že smím být dítětem Tvým, není nic, co chtěl bych víc, než být v Tvém náručí, ve Tvém náručí, ve ztišení blízko Ti být, ve tvém náručí.
+Jsem rád, že smím být dítětem Tvým, není nic, co chtěl bych víc, než být v Tvém náručí, ve Tvém náručí, ve ztišení blízko Ti být, ve tvém náručí.
 
-\newsong{265|Vzhůru, pojďme k vodám}
-{REF}Vzhůru, pojďme k vodám,každý, kdo žízeň má,
+\newsong{265|Vzhůru, pojďme k vodám}
+{REF} Vzhůru, pojďme k vodám, každý, kdo žízeň má,
 bez peněz, bez placení. Ježíš je laskavý Král.
-Brána je dokořán, každý je osobně zván k životu, ke spasení.
+Brána je dokořán, každý je osobně zván k životu, ke spasení.
 Ježíš je laskavý Král.
 1. Pojďte, Bůh cenu zaplatil sám, Beránek svůj život dal.
 Každý smí vstoupit, jen pokud chce sám. Bůh čeká, vejděme dál.
 2. Smíření, pokoj, uzdravení, zadarmo touží nám dát,
-nabízí z lásky odpuštění, Bůh náruč svou otvírá.
-
-\newsong{266|V Ježíši úkryt mám}
-V Ježíši úkryt mám,On je mé spasení, On je můj Pán.
+nabízí z lásky odpuštění, Bůh náruč svou otvírá.
+266. V Ježíši úkryt mám
+V Ježíši úkryt mám, On je mé spasení, On je můj Pán.
 
 \newsong{267|Zde jsem}
-{REF} Zde jsem, Pane můj,abych plnil vůli Tvou,
+{REF} Zde jsem, Pane můj, abych plnil vůli Tvou,
 kéž se mi stane podle Slova Tvého.
 1. Vzdávám Ti díky celým srdcem svým!
 Uslyšels můj hlas, mé snažné volání. Chci před anděly zpívat Ti chválu.
-2. Vzdávám Ti díky za Tvou lásku k nám!
-Tišíš naši žízeň, buduješ z nás chrám. Srdce mé ve Tvé blízkosti jásá.
+2. Vzdávám Ti díky za Tvou lásku k nám!
+Tišíš naši žízeň, buduješ z nás chrám. Srdce mé ve Tvé blízkosti jásá.
 3. Vzdávám Ti díky, věrný Otče náš,
-nabízíš nám smlouvu, pouta otvíráš. Ty jsi Bůh, který zůstává s námi.
+nabízíš nám smlouvu, pouta otvíráš. Ty jsi Bůh, který zůstává s námi.
 4. Vzdávám Ti díky za Tvé vítězství!
 Celý svět i nebe Tebe velebí, zpívají, Pane můj, o Tvé slávě.
 
-\newsong{268|S každým trápením}
-S každým trápenímmám za kým jít. V bojích, v souženích Ty jsi můj štít, můj štít, Skála věků, bezpečí, má skrýš, kde smím se skrýt.
+\newsong{268|S každým trápením}
+S každým trápením mám za kým jít. V bojích, v souženích Ty jsi můj štít, můj štít, Skála věků, bezpečí, má skrýš, kde smím se skrýt.
 Čím víc poznávám tvou lásku, chci Ti říct:
 Můj Králi, svou chválu ti vzdám, svou chválu Ti vzdám,
 jsi dobrý Bůh a nádherný a láska tvá je tak úžasná, já vím.
 
 \newsong{269|Svou důvěru}
-Svou důvěruv Tebe vkládám, ó Králi můj, Tvá láska naději dává, smím být jen Tvůj, /: už se víc nemusím bát, vždyť vím, že Pán je síla má. :/
+Svou důvěru v Tebe vkládám, ó Králi můj, Tvá láska naději dává, smím být jen Tvůj, /: už se víc nemusím bát, vždyť vím, že Pán je síla má. :/
 
-\newsong{270|Ty sám, }Pane můj, jen Ty sám, jenom Ty, Pane můj, Ty stačíš sám.
+\newsong{270|Ty sám}
+Ty sám, Pane můj, jen Ty sám, jenom Ty, Pane můj, Ty stačíš sám.
 
 \newsong{271|Můj Bůh dává mi lásku}
 Můj Bůh dává mi lásku, dává mi naději, že mohu zas žít.
 
 \newsong{272|Někdy se zdá}
-1. Někdy se zdá,že ses mi vzdálil, když Tvoji Tvář nenacházím.
+1. Někdy se zdá, že ses mi vzdálil, když Tvoji Tvář nenacházím.
 Někdy se zdá, že Bible mlčí, když cestám Tvým nerozumím.
-{REF} Ale já v Tebe věřím. Dál naději mám. Vždyť to vím, že Ty jsi věrný. V Tobě já naději mám. Pane, já v Tebe věřím. Dál naději mám.
+{REF} Ale já v Tebe věřím. Dál naději mám. Vždyť to vím, že Ty jsi věrný. V Tobě já naději mám. Pane, já v Tebe věřím. Dál naději mám.
 Vždyť to vím, že Ty jsi věrný a máš mě rád, máš mě rád, i když mě znáš.
-2. Někdy je čas odejít na poušť, bojovat boj s pokušením.
+2. Někdy je čas odejít na poušť, bojovat boj s pokušením.
 Někdy je čas sám sobě zemřít a dál cestou Tvou poslušně jít.
 
 \newsong{273|Moc Tvé lásky}
-1. Pane, přicházím, proměň srdce mé, jednej s ním tou velkou milostí,
+1. Pane, přicházím, proměň srdce mé, jednej s ním tou velkou milostí,
 kterou dáváš nám. Pane, teď už vím, slabosti své dát Ti smím
 a Ty je proměníš mocí své lásky.
 {REF} Blízko stůj, objímá mě láska Tvá, Pán jsi můj,
-smím žít po boku Tvém. S důvěrou jako orel vzlétnu
+smím žít po boku Tvém. S důvěrou jako orel vzlétnu
 a s Tebou poletím, Tvůj Duch mě nese vším mocí Tvé lásky.
 2. Můj závoj odkrýváš, chci Tě vidět tváří v tvář. Jsem láskou prostoupen,
 vždyť Tvým chrámem jsem. Obnov mysl mou, když zjevuješ mi
@@ -1366,24 +1374,25 @@ Je to pravda, že Ty sám o mě stojíš, že mě rád máš? Ty jsi úžasný.
 Boží přítel jsem. Boží přítel jsem. Boží přítel jsem, říká on sám.
 Mocný vládce, Králi slávy, smím být přítel Tvůj. Jsem přítel Tvůj.
 
-\newsong{275|Mou cestu v rukou máš}
-1. Mou cestu v rukou máš, jdu s důvěrou,
-neselže láska Tvá, jdu s důvěrou.
-Ať se třeba hory zřítí do moře, jdu s důvěrou,
+\newsong{275|Mou cestu v rukou máš }
+1. Mou cestu v rukou máš, jdu s důvěrou,
+neselže láska Tvá, jdu s důvěrou.
+Ať se třeba hory zřítí do moře, jdu s důvěrou,
 ať i hvězdy padají a svět kolem se hroutí.
-2. Když cestu nevidím, jdu s důvěrou, vedeš mě slovem svým,
-jdu s důvěrou. I když musím projít temným údolím, jdu s důvěrou,
+2. Když cestu nevidím, jdu s důvěrou, vedeš mě slovem svým,
+jdu s důvěrou. I když musím projít temným údolím, jdu s důvěrou,
 vím, že zase postavíš mě pevně na své skále.
-Každý den novou milost z Tvých dlaní smím si brát. Jako strom ve Tvém chrámu, v pevných zdech Tvé věrné lásky úkryt mám.
+
+Každý den novou milost z Tvých dlaní smím si brát.  Jako strom ve Tvém chrámu, v pevných zdech Tvé věrné lásky úkryt mám.
 
 \newsong{276|Ty sám, Ty jsi důvod}
-Ty sám, Ty jsi důvodradost mít. Já vím, Ty jsi důvod doufání.
+Ty sám, Ty jsi důvod radost mít. Já vím, Ty jsi důvod doufání.
 /: Léčíš rány mé i křídla zlámaná, co zkoušel jsem nést sám,
 teď dát Ti smím a vstát. :/
 
 \newsong{277|Spáso má}
-Spáso má,Králi mého srdce, štíte můj, ochránce.
-Nádherné je v Tvém domě být.
+Spáso má, Králi mého srdce, štíte můj, ochránce.
+Nádherné je v Tvém domě být.
 
 \newsong{278|Staň se mou touhou}
 1. Staň se mou touhou, buď snem, který mám, pro který chci žít
@@ -1401,13 +1410,13 @@ Tvůj hlas už znám.
 
 \newsong{279|Bože můj, Ty navštívíš}
 1. Bože můj, Ty navštívíš, trápené bolestí.
-V náručí neseš znavené, plačící potěšíš.
-{REF} Haleluja, haleluja, požehnaný Bůh.
+V náručí neseš znavené, plačící potěšíš.
+{REF}  Haleluja, haleluja, požehnaný Bůh.
 2. Bože můj, Ty nasloucháš, pokorným odpovíš.
 Zoufalý pokoj nachází, bázlivý bezpečí.
 
 \newsong{280|Pokoj vám}
-Pokoj vám, žehnáme vám pokojem v Ježíši, pokoj vám,
+Pokoj vám, žehnáme vám pokojem v Ježíši, pokoj vám,
 žehnáme vám pokojem skrze Kristův kříž, pokoj vám.
 
 \newsong{281|Rabunni}
@@ -1417,16 +1426,17 @@ Teď je čas naplnit vůli Tvou, je čas naplnit vůli Tvou láskou, láskou.
 \newsong{282|Všechno co by sis přál}
 1. Pane, všechno, co by sis přál, chci Ti dát.
 A tam, kde mě chceš mít, chi být i já.
-{REF}  /:Otče náš, jenž jsi v nebesích, buď vůle Tvá.:/
+{REF} /:Otče náš, jenž jsi v nebesích, buď vůle Tvá.:/
 2. Hlínou hrnčířskou jsem v ruce Tvé.
 Prosím, změň v podobu svou nitro mé.
 /: Po tom toužím, ať srdce Tvé pochopím.
 Ať Tvou vůli životem svým naplním.:/
 
 \newsong{283|Ve dlaních}
-Ve dlaníchsvých držíš moji dlaň. Já cítím Tvou vůni.
-Máš v očích zář, když Tě políbím, jsi krásný, jsi krásný.
-{REF} Ty dáváš mi víc, než bych troufal si vzít, když s láskou mě v náruči mě svíráš. Čas v nádvořích Tvých je nejvzácnější,
+Ve dlaních svých držíš moji dlaň. Já cítím Tvou vůni.
+Máš v očích zář, když Tě políbím, jsi krásný, jsi krásný.
+
+{REF} Ty dáváš mi víc, než bych troufal si vzít, když s láskou mě v náruči mě svíráš. Čas v nádvořích Tvých je nejvzácnější,
 tam Tvůj tichý, mírný hlas vnímám.
 
 \newsong{284|Dávám Ti, Králi můj}
@@ -1434,49 +1444,62 @@ tam Tvůj tichý, mírný hlas vnímám.
 /: Skládám před tváří Tvou své „vše co mám.“
 Toužím znát tě víc, ó, znát Tě víc. Toužím mít tě víc, ó, mít tě víc. :/
 
-\newsong{285|Chci být tam}
-1. Chci být tam, kde Ty jsi rád, žít s Tebou, víc Tě znát,
+\newsong{285|Chci být tam }
+1. Chci být tam, kde Ty jsi rád, žít s Tebou, víc Tě znát,
 mít tam svůj dům, kde Ty svůj dům máš.
 2. Vždy říct to, co v srdci máš, všem dát, co Ty rozdáváš,
 stát, když se zastavíš, a jít, až půjdeš dál.
-{REF}  Unaveným vrátit sílu, bloudícím světlem být,
+{REF} Unaveným vrátit sílu, bloudícím světlem být,
 sklíčeným břímě zvednout, radost jim dát.
 3. Chci být tam, kde Ty jsi rád, žít s Tebou, víc tě znát,
 mít tam svůj dům, kde Ty svůj dům máš.
 4. Vždy říct to, co v srdci máš, a vzít, co mi podáváš,
-stát, když se zastavíš, a jít, až půjdeš dál. 
-{REF}  Unaveným vracíš sílu, cíl i směr bezradným,
-hladové sytíš manou, smí ze skály pít.
+stát, když se zastavíš, a jít, až půjdeš dál.
+{REF} Unaveným vracíš sílu, cíl i směr bezradným,
+hladové sytíš manou,  smí ze skály pít.
 
 \newsong{286|Křídla holubice}
-1. Křídla holubicemít, jak rád bych k Tobě odletěl.
+1. Křídla holubice mít, jak rád bych k Tobě odletěl.
 Však kam teď, Pane můj se skrýt? Kudy letět? Ukaž směr.
 {REF} Kdybych světa kraj přeletěl nebo v temném stínu skrýt se chtěl,
 nenajdu víc, než v Tobě mám, Ty jsi má skrýš.
 2. Křídla holubice mít, kam sám bych, Pane doletěl.
-Vím, že v Tobě smím se skrýt, jen Ty znáš pravý cíl a směr.
+Vím, že v Tobě smím se skrýt, jen Ty znáš pravý cíl a směr.
 3. Křídla holubice mít, kam sám bych, Pane doletěl.
-Vím, že v Tobě smím se skrýt,jen Ty jsi pravý cíl a směr.
+Vím, že v Tobě smím se skrýt, jen Ty jsi pravý cíl a směr.
 
 \newsong{287|Dotýkáš se mocí}
 Dotýkáš se mocí, dotýkáš se ran. Vládneš svojí mocí, Ježíši jsi Pán.
 /:Ty jsi Pán, vládneš mocí, Ty jsi Král nad zemí. :/
 
-\newsong{288|Blahoslavení}
-1. K výšinám své oči pozvedám, koho bych se bál?
-Pomocnou ruku dá mi sám milostivý Král.
-2. Když umdléváme, staví nám stan, léčí nás jeho hlas.
-Chladí nám rány krví svých ran, pláštěm halí nás.
-{REF}  /:Milosrdní jsou blahoslavení, protože oni dojdou milosrdenství.:/
-3. Laskavě nám viny promíjí, učí nás odpouštět,
-Nabízí lásku tak, aby ji poznal celý svět.
-4. Dřevěný kříž zbavil lidstvo vin, vstal z mrtvých náš Pán,
-Ježíš je Bůh, světlo střídá stín, světu vládne Král.
-Přestaň se bát a Bohu dej své trápení i žal a věř, že Bůh očistil náš hřích, 
-Náš Pán žije dál.
+\newsong{288|Nade vše}
+1. Nade vší mocí, nad proudem řek, nad modrým nebem,
+co nemá počátek. Nad vší slávou, co může člověk mít,
+Ty jsi Ten, kdo hrad je můj i štít.
+2. Nad každý poklad, nad každý sen, nad všechny krále
+Ty sám jsi vyvýšen. Byl´s jak růže, co člověk zahodí.
+Ty jsi Bůh, já ten, kdo uhodí.
+{REF} Nám jsi dal lásku svou a kříž. Žít jsi měl, byl jsi na obtíž.
+|: Pro můj hřích smrt jsi podstoupil. Vím, to kvůli mně, bych směl
+žít, jsi můj štít.:|
+
+\newsong{289|Blahoslavení}
+1. K výšinám své oči pozvedám, koho bych se bál? Pomocnou ruku
+dá mi sám milostivý Král.
+2. Když umdléváme, staví nám stan, léčí nás jeho hlas. Chladí nám rány
+krví svých ran, pláštěm halí nás.
+{REF} |:Milosrdní jsou blahoslavení, protože oni dojdou milosrdenství.:|
+3. Laskavě nám viny promíjí, učí nás odpouštět, nabízí lásku tak, aby ji
+poznal celý svět.
+{REF}
+4. Dřevěný kříž zbavil lidstvo vin, vstal z mrtvých náš Pán, Ježíš je Bůh,
+světlo střídá stín, světu vládne Král.
+{REF}
+Bridge: Přestaň se bát a Bohu dej své trápení i žal a věř, že Bůh očistil náš hřích, náš Pán žije dál.
+{REF}
 
 \newsong{310|Otče, chválím}
-/:Otče, chválímjméno Tvé posvěcené,
+/:Otče, chválím jméno Tvé posvěcené,
 Tvé jméno chválím, ať je navěky vyvýšené. :/
 /: Haleluja, jen Tobě zní dík, chvály mé,
 haleluja, jen Tobě zní dík, chvály mé. :/
@@ -1502,14 +1525,14 @@ Aby každý poznal lásku Boží, tak na kříži nám své srdce otevíráš.
 cestou jít, pravdu hledat a ctít, svou přítomností z nás učiň svědky Boží.
 
 \newsong{314|Svatý je Hospodin zástupů}
-/:Svatý, svatý, svatý je Hospodin zástupů. :/ /:Celá země je plná jeho slávy.:/
+/:Svatý, svatý, svatý je Hospodin zástupů. ://:Celá země je plná jeho slávy.:/
 
 \newsong{315|Otče můj drahý}
-1. /: Otče můj drahý,svaté je jméno Tvé,
+1. /: Otče můj drahý, svaté je jméno Tvé,
 kéž je zjevná Tvoje sláva na zemi,:/ můj Nejvyšší.
-{REF} /:Buď vůle Tvá na nebi, buď vůle Tvá na zemi,
-buď vůle Tvá v životě mém, Ježíši, :/ můj Nejvyšší.
-2. Ježíš, ó Ježíš, v jeho jménu je moc, kéž je zjevná Jeho sláva na zemi.
+Ref.: /:Buď vůle Tvá na nebi, buď vůle Tvá na zemi,
+buď vůle Tvá v životě mém, Ježíši, :/ můj Nejvyšší.
+2. Ježíš, ó Ježíš, v jeho jménu je moc, kéž je zjevná Jeho sláva na zemi.
 
 \newsong{316|Bůh přísný i přívětivý}
 1. Bůh přísný i přívětivý, Bůh v soudech svých spravedlivý.
@@ -1523,28 +1546,28 @@ Svatá je Jeho sláva, svatá je Jeho láska, svatá je Jeho spása.
 Nabízí se nám, svatý, svatý Pán.
 
 \newsong{318|Ty jsi Pán}
-/: V Hospodinových rukou je právo, v rukou Hospodinových je moc, Hospodinu patří čest a sláva, Hospodinův je i soud. :/
+/: V Hospodinových rukou je právo, v rukou Hospodinových je moc, Hospodinu patří čest a sláva, Hospodinův je i soud. :/
 /: Ty jsi Pán nad celou zemí, Ty jsi Král vyvýšený. :/
 
 \newsong{319|Tví jsme my}
-1. Tví jsme my,nás shromáždila v jedno láska Tvá.
+1. Tví jsme my, nás shromáždila v jedno láska Tvá.
 Náš hlas zní, rodina Tvých dětí zpívá, Králi náš.
 {REF} /:Volá: Abba, Otče, velká moc je Tvá.:/
 2. Tví jsme my, zpíváme, vždyť nám vládne láska Tvá.
 Náš hlas zní, rodina Tvých dětí zpívá, Králi náš.
 
 \newsong{320|Milostí jen}
-Milostí jenmůžem vstoupit, milostí jen můžem stát.
+Milostí jen můžem vstoupit, milostí jen můžem stát.
 Člověk se sám nevykoupí, Beránka Tys musel dát.
 V blízkosti Tvé žít jsme zváni, blíž Tobě být.
 V blízkosti své Ty nás chráníš, /: dík milosti můžem jít.:/
 Pokud bys hříchy nám sčítal, kdo obstojí?
-Beránka krev smyla hřích, milost nás uzdraví.
+Beránka krev smyla hřích,  milost nás uzdraví.
 
 \newsong{321|Otče, přijmi mě}
 1. Stojím před Tebou, slova neschopen, hříchem, malomyslností ochromen. Srdce vyprahlé, bez starostí jsem, slepý, vztahuji své ruce.
 {REF} Otče, přijmi mě, prosím, zpět, toužím po náruči Tvé! Uzdrav, co zkřivil ve mně klamný svět. Ty jsi radost duše mé.
-2. Vyplenil jsem zem, nepřijal Tvůj dar, v srdci nechal vzklíčit beznaděj a zmar. Bližní poranil, zlobou ubíjel, zmaten, hledám Tvoji tvář.
+2. Vyplenil jsem zem, nepřijal Tvůj dar, v srdci nechal vzklíčit beznaděj a zmar. Bližní poranil, zlobou ubíjel, zmaten, hledám Tvoji tvář.
 
 \newsong{340|Veni Sancte Spiritus}
 {REF} /:Veni Sancte Spiritus :/ 4x
@@ -1556,14 +1579,15 @@ pravda Tvá ať proniká tmu, duši vrací jas. Přijď a ohněm zapal nás!
 zahrň církev dary svými, k službě vyzbroj nás. Přijď a ohněm zapal nás!
 
 \newsong{341|Ruah}
-/: Ruah:/ 6x Ne mocí, ne silou, ale mým Duchem, praví Pán.
+/:Ruah:/ 6x     Ne mocí, ne silou, ale mým Duchem, praví Pán.
 
 \newsong{342|Duchu svatý, přijď|Mutislav}
 /: Duchu svatý, přijď, sestup mezi nás, my tě voláme, probuď nás.:/
 /: Vše, co mám, s radostí odevzdám. Vše, co jsem, budiž tvé, jsi můj Pán.:/
 
-\newsong{343|Přijď k nám, Duchu boží|O. Rozkopal}
-/:Přijď k nám, Duchu Boží.:/ /: Navštiv nás, navštiv nás.:/
+\newsong{343|Přijď k nám,  Duchu boží|O. Rozkopal}
+/:Přijď k nám, Duchu Boží.:/
+/: Navštiv nás, navštiv nás.:/
 
 \newsong{344|Přijď, ó Pane přijď}
 Přijď, ó Pane přijď do našich srdcí, přijď, ó Pane přijď mezi nás.
@@ -1573,12 +1597,12 @@ Přijď, ó Pane přijď do našich srdcí a rozsviť světlo svojí lásky v n�
 1. Ať tvá živá voda duši mou obmývá, ať Duch svatý přijde,
 ať se mnou přebývá, ať vezme každé trápení,
 jež svírá mysl mou, vím, že s každou starostí smím jít za tebou.
-{REF}  /:Ježíši, Ó, Duchu svatý, můj Otče nebeský.:/
+{REF} /:Ježíši, Ó, Duchu svatý, můj Otče nebeský.:/
 2. Prosím, Duchu svatý, přijď víc, prosím, přijď. Drž mě ve své blízkosti, ať znát víc tě smím. Pochybnosti, strach a pýchu můžeš mi vzít, veď mě ve své lásce, toužím tvou cestou jít.
 3. Dej svůj život Pánu, ať ho sám naplní. Dovol, ať tě Ježíš uchopí do dlaní. Svobodný a šťastný jenom s Ním můžeš být, potom smíš na věky vládnout s Ním v království.
 
 \newsong{346|Duchu svatý, přijď}
-{REF} /: Duchu svatý, přijď :/ 3x přijď sem k nám. 
+{REF} /: Duchu svatý, přijď :/ 3x přijď sem k nám.
 1. Oslav Otce v nebesích, ukaž, kdo je tady Pán,
 přijď a vyuč nás cestě své.
 2. Přijď a dotýkej se nás, my Tě voláme: Přijď víc.
@@ -1590,7 +1614,7 @@ Prameni lásky, jistoto víry, Duchu svatý, uzdravuj nás.
 Nauč nás žít, duši dej mír, Duchu svatý, naplňuj nás.
 
 \newsong{348|Přijď, Duchu Boží}
-{REF}  Přijď, Duchu Boží, a sestup na zemi,
+{REF} Přijď, Duchu Boží, a sestup na zemi,
 přijď se světlem svým, zapal oheň nový.
 1. Jak na počátku (přijď, Duchu, k nám)
 dechem života (přijď, Duchu, k nám)
@@ -1655,11 +1679,11 @@ věčnou radost před Bohem.
 Spiritum Domine nobis, Tuae Caritatis infunde.
 
 \newsong{355|Veni Spiritus}
-{REF}  /: Veni Spiritus:/
+{REF} /: Veni Spiritus:/
 1. Jako svatý olej bez příměsi, jako čistá krůpěj Chermónské rosy
-ať skane Tvé pomazání, veni Spiritus Sancte.
+ať skane Tvé pomazání,  veni Spiritus Sancte.
 2. Ty, kdo dáváš ovoci zrát, od slávy k slávě proměňuješ rád,
-Boží hlubiny toužíme znát, veni Spiritus Sancte.
+Boží hlubiny toužíme znát,  veni Spiritus Sancte.
 3. Přijď, do čistých nádob víno vlej, do všeliké pravdy uváděj,
 před bludem a pýchou uchovej, veni Spiritus Sancte.
 
@@ -1672,6 +1696,7 @@ přijď do všech mých nejistot, přijď do všech mých neklidů.:/
 \newsong{357|Přijď, Duchu svatý, my Tě zveme}
 /:Přijď, Duchu svatý, my Tě zveme:/ 3x tak přijď,
 Duchu svatý, my Tě zveme, my Tě zveme, přijď k nám.
+
 /:Přijď dary dát, zbuduj církev svou,
 přijď s pravdou svou, ať je slaven Pán.
 Buď průvodcem, ukaž směr, pojď s námi dál.:/
@@ -1688,7 +1713,7 @@ ať mne Tvoje blízkost změní a s Duchem chodím dál…
 \newsong{359|Duch a nevěsta}
 Duch a nevěsta dí: tak jen pojď, slyšíš-li jej, řekni též: pojď!
 A kdo žízeň má, ten ať přijde též. Vodu života zadarmo může pít.
-/: Aleluja, tak Pána chval,:/ 3x aleluja, tak Pána svého chval!
+/: Aleluja, tak Pána chval,:/ 3x   aleluja, tak Pána svého chval!
 
 \newsong{360|Slunce Kristovy lásky}
 Slunce Kristova lásky ať ozáří nás, oheň svatého Ducha, ať zapálí nás.
@@ -1699,22 +1724,25 @@ Naplň, Pane, naplň mne, naplň, Pane, mocí svou dnes srdce mé.
 Jsem jen Tvůj, jen Tvůj, chci dělat, co chceš sám,
 tak mne naplň, Pane, žádám, tak mne naplň, Pane, žádám.
 
-\newsong{362|Duchu svatý, přijď (Jarní déšť)}
-/: (Duchu svatý, přijď,)2x (sestup mezi nás.) 2x :/
-1.(Jako jarní déšť) 2x (přijď a osvěž nás,) 2x 
+\newsong{362|Duchu svatý, přijď|Jarní déšť}
+/: (Duchu svatý, přijď,)2x  (sestup mezi nás.) 2x :/
+1.(Jako jarní déšť) 2x  (přijď a osvěž nás,) 2x
 (život svůj nám dej,) 2x (přijď a naplň nás.) 2x
-2.(Jako jarní déšť) 2x (přijď a osvěž nás,) 2x
+2.(Jako jarní déšť) 2x  (přijď a osvěž nás,) 2x
 (ohněm lásky své,) 2x (přijď a zapal nás.) 2x
 
 \newsong{363|Jak dobré je}
 /: Jak dobré je před Tebou být, jak dobré je s Tebou žít. :/
 /: Přijď, přijď, Duchu svatý, vzýváme Tě, přijď k nám.:/
 
-\newsong{364|Ruah }Ne silou ani mocí, ale mým Duchem, dí Pán. Ruah...
+\newsong{364|Ruah}
+Ne silou ani mocí, ale mým Duchem, dí Pán.    Ruah...
 
-\newsong{365|Veni Sancte Spiritus }/: Veni Sancte Spiritus. :/
+\newsong{365|Veni Sancte Spiritus}
+/: Veni Sancte Spiritus. :/
 
-\newsong{366|Zavítej k nám, }Duchu svatý, přijď, daruj nám ze světla svého.
+\newsong{366|Zavítej k nám}
+Zavítej k nám, Duchu svatý, přijď, daruj nám ze světla svého.
 
 \newsong{367|Naplňuj mne Duchem svým}
 Naplňuj mne Duchem svým, naplňuj mne Duchem svým.
@@ -1730,7 +1758,7 @@ Přijď a dej napít vody duši mé, přijď, ty vánku Boží.
 Hle, Pán jistě přijde, čekej na Něj, i když prodlévá.
 Hle, Pán jistě přijde a nic mu nezabrání. (Aleluja) 2x
 
-\newsong{391|Hle, stojím u dveří|Jiří Černý}
+\newsong{391|Hle, stojím u dveří |Jiří Černý}
 Hle, stojím u dveří a tluču, pusť mě dál.
 Stojím u dveří a toužím s tebou být.
 Stojím u dveří a tluču, praví Pán.
@@ -1745,7 +1773,7 @@ Prope est Dominus, aleluja, prope est Dominus, aleluja.
 Aleluja, aleluja, prope est Dominus, aleluja.
 
 \newsong{394|Maranatha!}
-{REF} Maranatha, maranatha.
+{REF}  Maranatha, maranatha.
 1. Přijď za svou nevěstou, hoří radostí, naslouchá.
 Čeká v šatech svatebních, návrat tvůj vyhlíží.
 2. Přijď do své zahrady, ona pro tebe rozkvétá.
@@ -1780,7 +1808,7 @@ zemřít, abych Tvůj život žil.
 \newsong{398|Pod Tvým křížem}
 (Pod Tvým křížem, Pane můj, sílu nalézám,) 3x Amen.
 
-\newsong{399|Ave crux}|Jiří Černý} 
+\newsong{399|Ave crux|Jiří Černý}
 Ave crux, spes unica, ave crux, spes unica, Ave crux.
 
 \newsong{400|Všichni jako ovce}
@@ -1797,6 +1825,7 @@ Hospodine, prosím nade mnou se smiluj, zahlaď všechny moje viny
 a mé srdce bude čisté.
 Svého Ducha zas mi daruj, ať je ve mně stále činný,
 ( zas mé kroky budou jisté. ) 3x
+
 /: Oblečte člověka nového, který podle vzoru Božího
 je stvořený, spravedlivý a svatý.:/
 
@@ -1814,7 +1843,7 @@ Ježíš je Pán, ó, haleluja, Ježíš je Král, kraluje navěky.
 \newsong{405|Dokonáno jest}
 1. Odpustit hřích, zastavit lavinu, porazit smrt
 přišel jsi Ty, Beránek bez viny, vykoupit svět.
-{REF}  (Dokonáno jest) 3x Amen.
+{REF} (Dokonáno jest) 3x Amen.
 2. Podstoupit kříž, zaplatit za vinu, vytrpět trest,
 přišel jsi Ty, vyhlásit zajatým radostnou zvěst.
 
@@ -1829,7 +1858,7 @@ pokání odpuštění v radost promění.:/
 cítil, co cítím já, On rozumí.
 On křehkost moji zná, žil v těle jako já,
 ďábel ho pokoušel, On neprohrál.
-{REF}  Bůh s námi je, nám blízko je,
+{REF} Bůh s námi je, nám blízko je,
 Bůh s námi je, Imanuel.
 2. Byl lidmi pohrdán, týrán a popliván,
 blízkými opuštěn, On odpouští.
@@ -1846,7 +1875,7 @@ Obraťme se k Bohu, věřme Jeho Slovu. Amen.
 
 \newsong{410|Vyznání}
 1. Do rukou Tvých, Otče, odevzdávám cesty své, po kterých kráčím sám.
-​/:Vždyť sny a cíle mé jsou bez Tebe jen pouhé marnosti a klam.:/
+/:Vždyť sny a cíle mé jsou bez Tebe jen pouhé marnosti a klam.:/
 2. Do rukou Tvých, Otče, odevzdávám vědomosti, kterých málo mám.
 /:Čekám, ó vždyť víš, že mě naplníš, Dárce štědrý milost uděl nám.:/
 3. Do rukou Tvých, Otče, odevzdávám tělo své - vratký prám.
@@ -1857,7 +1886,7 @@ Obraťme se k Bohu, věřme Jeho Slovu. Amen.
 \newsong{411|Stál jsem v tu dobu}
 1. Stál jsem v tu dobu, stál jsem u hrobu,
 znenadání jsme tu sami, naděje byla jen sen, a přece:
-{REF}  Kámen odvalen, svítá nový den.
+{REF} Kámen odvalen, svítá nový den.
 Hleď, ať tahle novina, že se znova začíná, nezůstane tvojí jen.
 2. Ať v tuhle dobu, z tohoto hrobu,
 do srdcí a po vší zemi naděje jas je šířen. To protože..
@@ -1891,7 +1920,7 @@ Beránek zve nás k hostině, oblečme roucho bílé.
 Tvé jméno chválí Boží lid, ó Tvůrce všehomíra.
 
 \newsong{414|Zůstaň s námi, Pane}
-{REF}  Zůstaň s námi, Pane, když se stmívá,
+{REF} Zůstaň s námi, Pane, když se stmívá,
 zůstaň s námi, den se nachýlil,
 zůstaň s námi, už se připozdívá, zůstaň s námi, když ubývá sil.
 1. Nad bázlivou duší a nad slabým tělem
@@ -1916,7 +1945,7 @@ On je Pán, On je Pán, Ježíš Kristus z mrtvýchvstal a On je Pán,
 každé koleno ať poklekne a každý jazyk vyzná, že Ježíš Kristus je Pán.
 
 \newsong{440|Ave Maria}
-{REF}  Ave Maria, chci Tvou cestou jít,
+{REF} Ave Maria, chci Tvou cestou jít,
 stát se Božím stánkem, kde On může žít.
 1. Ó, Matko Páně, vezmi ruku mou,
 veď mě k Synu svému cestou jedinou.
@@ -1930,7 +1959,7 @@ předkládej nás Pánu, oroduj za nás.
 před tím, který s láskou řídí život můj.
 
 \newsong{441|Zdrávas}
-{REF}  Ave Maria, milosti jsi plná a Pán je s Tebou.
+{REF} Ave Maria, milosti jsi plná a Pán je s Tebou.
 1. Tys zlatý šíp, jenž světlo přináší, v Tobě chudý svůj poklad nalézá.
 Ty jsi slabá, kterou Pán povýší, a pokorná, na trůn posazená.
 2. Tys Boží chrám, v němž slova víry zní, zem úrodná, jež zrno ochrání,
@@ -1939,16 +1968,16 @@ most, po kterém k nám láska přichází, pod stanem Tvým Nejvyšší přebý
 vždyť jméno Tvé celý svět proniká, Tys jasná zář, která den přináší.
 
 \newsong{442|Rozžíhá|Bob Fliedr}
-{REF}  /: Rozžíhá Maria svíce v nás. Temnotou s Marií projdem snáz.:/
-1. Jí patří dík, že mrtvým lánům dal život Boží Syn,
+{REF} /: Rozžíhá Maria svíce v nás. Temnotou s Marií projdem snáz.:/
+1.  Jí patří dík, že mrtvým lánům dal život Boží Syn,
 že světlo vešlo do míst, kde dlouho ležel stín.
 2. Jí patří dík, že země k nebi se znovu přiklání,
 že padla vláda noci a přišlo svítání.
-3. Jí patří dík, že věčné světlo nám hoří v kostelích
+3.  Jí patří dík, že věčné světlo nám hoří v kostelích
 a nebýt Matky Boží, kdo znal by Knihu knih?
-4. Jí patří dík, že Kristův oheň nás nenechává spát,
+4.  Jí patří dík, že Kristův oheň nás nenechává spát,
 že rozehřívá ledy a v teplo mění chlad.
-5. Jí patří dík za všechna díla, co chrání pláštěm svým,
+5.  Jí patří dík za všechna díla, co chrání pláštěm svým,
 dík za posilu v nouzi, za pomoc trpícím.
 6. Jí patří dík, že zvláštní cestou si vede národ náš.
 Kéž rozezní se Ave, až přijde Mesiáš.
@@ -2009,10 +2038,10 @@ i úzkost našich životů jak obětní dar Tobě milý.
 Pro Tebe chceme stále žít planoucí každým Tvým slovem
 bychom pak přinesli všem lidem živoucí plamen Tvojí lásky.
 
-\newsong{448|Ave Maria|Hosana}
+\newsong{448|Ave Maria (Hosana)}
 1. Ave, Maria, Pán buď s Tebou. Ave, Bůh má Tě rád.
 Tobě nebude dítě kletbou, dívko, přestaň se bát.
-{REF}  Služebnice svého Pána, požehnaná. Ave, ave, Maria.
+{REF} Služebnice svého Pána, požehnaná. Ave, ave, Maria.
 2. Tebe národy chválit budou, Bůh Ti výsadu dal.
 Přijal na milost dívku chudou, z Tebe zrodí se Král.
 
@@ -2038,7 +2067,7 @@ Věrně nás doprovází srdce tvé mateřské,
 projdi s námi až k trůnu slávy nebeské.
 
 \newsong{450|Pod ochranu Tvou}
-{REF}  Pod ochranu tvou se utíkáme, pod Tvůj plášť, Maria.
+{REF} Pod ochranu tvou se utíkáme, pod Tvůj plášť, Maria.
 Na přímluvu Tvou spoléháme, Matko Boží, Maria.
 1. Neodmítej naše prosby(v našich potřebách),
 nauč nás v tichu naslouchat (prosíme).
@@ -2053,189 +2082,217 @@ smilování nám vypros u Syna (prosíme).
 Příčino naší radosti (Matko, Maria)
 i naším ANO ať vše začíná.
 
-\newsong{460|Laudate omnes gentes||Ž 117/1}
+\newsong{460|Laudate omnes gentes |Taizé|Ž 117/1}
 /: Laudate omnes gentes, laudate Dominum.:/
 \translation{Chvalte Hospodina všechny národy}
 
-\newsong{461|Laudate Dominum||Ž 117/1}
+\newsong{461|Laudate Dominum|Taizé|Ž 117/1}
 /: Laudate Dominum, laudate Dominum, omnes gentes, aleluja.:/
 \translation{Chvalte Hospodina všechny národy}
 
-\newsong{462|Pánu chválu vzdej / Blesss the Lord}
-ČJ: Pánu chválu vzdej a jméno Jeho chval. 
-Pánu chválu vzdej, jen On ti život dá. 
+\newsong{462|Pánu chválu vzdej / Blesss the Lord|Taizé|}
+ČJ: Pánu chválu vzdej a jméno Jeho chval.
+Pánu chválu vzdej, jen On ti život dá.
 AJ: Blesss the Lord, my soul, and bless his holy name.
 Blesss the Lord, my soul, who leads me into life.
 
-\newsong{463|Sanctum nomen Domini}
+\newsong{463|Sanctum nomen Domini|Taizé|}
 /: Sanctum nomen Domini magnificat anima mea.:/
 \translation{Má duše velebí Hospodinovo svaté jméno}
 
-\newsong{464|Jubilate Deo}
+\newsong{464|Jubilate Deo|Taizé|}
 Jubilate Deo omnis terra! O, Aleluia, aleluia.
-\translation{Jásej Hospodinu, celá země}
+\translation{Jásej Hospodinu, celá země!}
 
-\newsong{465|Pane, chválíme Tě / Bénissez le Seigneur||Ž 148}
-ČJ: Pane, chválíme Tě
-FR: Bénissez le Seigneur!
+\newsong{465|Pane, chválíme Tě / Bénissez le Seigneur!|Taizé|Ž 148}
+ČJ: Pane, chválíme Tě!
+FJ: Bénissez le Seigneur!
 
-\newsong{466|Confitemini Domino||Ž 136,1}
+\newsong{466|Confitemini Domino|Taizé|Ž 136,1}
 Confitemini Domino, quoniam bonus.
 Confitemini Domino, aleluia.
 \translation{Oslavujte Hospodina, neboť je dobrý.}
 
-\newsong{467|Misericirdias Domini||Ž 89,2}
+\newsong{467|Misericirdias Domini|Taizé|Ž 89,2}
 Misericirdias Domini in aeternum cantabo.
 \translation{Navěky chci zpívat o Pánově milosrdenství.}
 
-\newsong{468|Jesu Redemptor}
+\newsong{468|Jesu Redemptor|Taizé|}
 Jesu Redemptor omnium, tu lumen et splendor Patris,
 tibi sit gloria, tibi Jesu sit gloria.
 \translation{Ježíši, spasiteli všeho, co žije, Otcovo světlo, tobě patří sláva.}
 
-\newsong{469|O, adoramus te, Domine}
-O, adoramus te, Domine
-\translation{Klaníme se Ti, Kriste}
+\newsong{469|O, adoramus te, Domine|Taizé|}
+O, adoramus te, Domine.
+\translation{Klaníme se Ti, Kriste.}
 
-\newsong{470|O, Christe, Domine Jesu}
-O, Christe, Domine Jesu
-\translation{O, Kriste, Pane Ježíši}
+\newsong{470|O, Christe, Domine Jesu|Taizé|}
+O, Christe, Domine Jesu.
+\translation{O, Kriste, Pane Ježíši.}
 
-\newsong{471|Zůstaňte zde||Mt 26, 38}
+\newsong{471|Zůstaňte zde |Taizé|Mt 26, 38}
 Zůstaňte zde a bděte se mnou. Bděte a modlete se, bděte a proste.
 
-\newsong{472|Venite, exultemus Domino}
+\newsong{472|Venite, exultemus Domino|Taizé|}
 /: Venite, exultemus Domino, venite, adoremus. :/
-\translation{Pojďme, jásejme Hospodinu, pojďme, klaňme se.}
+\translation{Pojďme, jásejme Hospodinu, pojďme, klaňme se. }
 
-\newsong{473|Oculi nostri}
+\newsong{473|Oculi nostri|Taizé|}
 Oculi nostri ad Dominum Jesum, Oculi nostri ad Dominum nostrum.
 \translation{Naše oči hledí na Pána Ježíše, našeho Boha.}
 
-\newsong{474|V temnotách našich dnů}
+\newsong{474|V temnotách našich dnů|Taizé|}
 /: V temnotách našich dnů zapal oheň,
 který nezhasíná, nikdy nezhasíná v nás.:/
 
-\newsong{475|Kdo hledí k Bohu||Ž 34, 6}
+\newsong{475|Kdo hledí k Bohu|Taizé|Ž 34,6}
 Kdo hledí k Bohu, tvář svou rozjasní,
 /: láska v něm září, nic nepostrádá.:/
 
-\newsong{476|Blízko je Pán}
+\newsong{476|Blízko je Pán |Taizé|}
 Blízko je Pán a Jeho den. Blízko je Pán, v Něm síla má.
 
-\newsong{477|Ježíši, přijď|Podle sv. Augustina}
+\newsong{477|Ježíši, přijď|Taizé|podle sv. Augustina}
 Ježíši, přijď, tys světlo mé duše, má noc jak den před Tebou se rozjasní.
 Ježíši, přijď, tys světlo mé duše, láska Tvá život můj promění.
 
-\newsong{478|Bonum est confidere}
+\newsong{478|Bonum est confidere|Taizé|}
 Bonum est confidere in Domino, bonum sperare in Domino.
-\translation{Je dobré doufat v Hospodina.}
+\translation{Je dobré doufat v Hospodina.  }
 
-\newsong{479|In te confido}
-O, Jesu Christe, o, in te confido.
-\translation{Ježíši Kriste, v Tebe doufám.} 
+\newsong{479|In te confido|Taizé|}
+O, Jesu Christe, o,  in te confido.
+\translation{Ježíši Kriste, v Tebe doufám.  }
 
-\newsong{480|Radostí srdce je Pán}
+\newsong{480|Radostí srdce je Pán|Taizé|}
 Radostí srdce je Pán, na Pána čeká duše má.
 
-\newsong{481|Každý den}
+\newsong{481|Každý den|Taizé|}
 Každý den Pán mi sílu dává, písní mou je můj Pán.
 On se stal mým spasením, /: když kráčím s Ním, nemusím se bát.:/
 
-\newsong{482|Náš Bůh je láska}
+\newsong{482|Náš Bůh je láska|Taizé|}
 Náš Bůh je láska, mějte odvahu, žijte pro lásku.
 Náš Bůh je láska. Nemusíš se bát.
 
-\newsong{483|El alma que anda en amor}
+\newsong{483|El alma que anda en amor|Taizé|}
 /: El alma que anda en amor, ni cansa ni se cansa.:/
 
-\newsong{484|Jdem tmou a nocí / De noche}
-Jdem tmou a nocí, tak temnou, za pramenem vody živé.
+\newsong{484|Jdem tmou a nocí / De noche|Taizé|}
+ČJ: Jdem tmou a nocí, tak temnou, za pramenem vody živé.
 /: Jen žízeň nám bude světlem. :/
-De noche i remos, de noche, que paraen contrar la fuente.
+ŠJ: De noche i remos, de noche, que paraen contrar la fuente.
 /: Sólo la sed nos alumbra.:/
 
-\newsong{485|Nada te turbe}
+\newsong{485|Nada te turbe|Taizé|sv. Terezie z Avily}
 Nada te turbe, nada te espante; quien a Dios tiene nada le falta.
 Nada te turbe, nada te espante; sólo Dios basta.
-\translation{Nic ať tě nemate, nic ať tě neděsí. Bůh sám to stačí. - sv. Terezie z Avily}
+\translation{Nic ať tě nemate, nic ať tě neděsí. Bůh sám to stačí.}
 
-\newsong{486|Před Tebou}
+\newsong{486|Před Tebou|Taizé|}
 Před Tebou, Pane, temno ztrácí sílu svou, noc odchází a den jasně září.
 
-\newsong{487|Jen Bůh||Ž 62}
+\newsong{487|Jen Bůh|Taizé|Ž 62}
 Jen Bůh mé duši dává spásu a mír, jen s Ním přichází mír.
 Dá spočinout mé duši v Božím smíru, spása má je v Něm.
 
-\newsong{488|Duše má po Tobě touží}
+\newsong{488|Duše má po Tobě touží|Taizé|}
 Duše má po Tobě touží; v Tobě navždy spočinout, Kriste.
 Ó, Ty slyšíš, když volám. Ó.
 
-\newsong{489|Ubi caritas}
-Ubi caritaset amor, ubi caritas, Deus ibi est.
+\newsong{489|Ubi caritas|Taizé|}
+Ubi caritas et amor, ubi caritas, Deus ibi est.
 \translation{Kde je dobrota a láska, tam přebývá Bůh.}
 
-\newsong{490|Nunc dimittis||Lk 2, 29}
+\newsong{490|Nunc dimittis|Taizé|Lk 2, 29}
 Nunc dimittis servum tuum, Domine, secundum verbum tuum in pace.
 \translation{Nyní můžeš, Pane, propustit svého služebníka v pokoji, podle svého slova.}
 
-\newsong{491|Dona pacem cordium}
-Dona pacem cordium.
+\newsong{491|Dona pacem cordium|Taizé|}
+Dona pacem cordium
 \translation{Daruj nám pokoj srdce.}
 
-\newsong{492|Veni Sancte Spiritus}
-Veni Sancte Spiritus.
+\newsong{492|Veni Sancte Spiritus|Taizé|}
+Veni Sancte Spiritus
 \translation{Přijď, Duchu svatý.}
 
-\newsong{493|Spiritus Jesu Christi}
+\newsong{493|Spiritus Jesu Christi|Taizé|}
 Spiritus Jesu Christi, Spiritus caritatis, /: confirmet cor tuum. :/
 \translation{Duch Ježíše Krista, Duch lásky, ať posílí Tvé srdce.}
 
-\newsong{494|Veni Lumen}
+\newsong{494|Veni Lumen|Taizé|}
 O, veni Creator Spiritus. O, /: veni lumen cordium.:/
 \translation{Přijď, Duchu Stvořiteli, přijď, světlo srdcí.}
 
-\newsong{495|Veni Creator (kánon)}
+\newsong{495|Veni Creator (kánon)|Taizé|}
 Veni Creator, veni Creator, veni Creator Spiritus.
 \translation{Přijď, Duchu Stvořiteli.}
 
-\newsong{496|Tui amoris ignem}
+\newsong{496|Tui amoris ignem|Taizé|}
 Veni Sancte Spiritus, tui amoris ignem accende. /: Veni Sancte Spiritus.:/
 \translation{Přijď, Duchu Svatý, zapal oheň své lásky.}
 
-\newsong{497|In resurrectione tua}
+\newsong{497|In resurrectione tua |Taizé|}
 /: In resurrectione tua, Christe, coeli et terra laetentur.:/
 \translation{Z Tvého zmrtvýchvstání, Kriste, ať se radují nebesa i zem.}
 
-\newsong{498|Nebojte se}
+\newsong{498|Nebojte se|Taizé|}
 /: Nebojte se, radujte se! Kristus, slavný vítěz z hrobu vstal.:/
 
-\newsong{499|Crucem tuam}
+\newsong{499|Crucem tuam|Taizé|}
 Crucem tuam adoramus Domine, resurrectionem tuam,
 laudamus Domine. Laudamus et glorificamus.
 Resurectionem tuam, laudamus Domine.
-\translation{Tvému kříži se klaníme, Pane, tvé zmrtvýchvstání chválíme.}
+\translation{Tvému kříži se kalníme, Pane, tvé zmrtvýchvstání chválíme.}
 
-\newsong{500|In manus tuas, Pater||Lk 23, 46}
+\newsong{500|In manus tuas, Pater|Taizé|Lk 23, 46}
 /: In manus tuas, Pater, commendo spiritum meum. :/
 \translation{Otče, do Tvých rukou odevzdávám svého ducha.}
 
-\newsong{501|Adoramus te Christe}
+\newsong{501|Adoramus te Christe|Taizé|}
 Adoramus te Christe benedicimus tibi,
 /: quia per crucem tuam redemisti mundum.:/
 \translation{Klaníme se ti, Kriste, a dobrořečíme ti, neboť svým křížem jsi vykoupil svět.}
 
-\newsong{502|Salvator mundi}
-/: Salvator mundi, salva nos :/ /: salva nos :/, salvator mundi, salva nos.
+\newsong{502|Salvator mundi|Taizé|}
+/: Salvator mundi, salva nos :/, /: salva nos :/, salvator mundi, salva nos.
 \translation{Spasiteli světa, zachaň nás.}
 
-\newsong{503|Kyrie eleison}
+\newsong{503|Kyrie eleison|Taizé|}
 Kyrie eleison
 \translation{Pane, smiluj se.}
 
-\newsong{504|Kyrie eleison}
-Kyrie eleison.
+\newsong{504|Kyrie eleison|Taizé|}
+Kyrie eleison
 \translation{Pane, smiluj se.}
+
+\newsong{505|Kyrie eleison|Taizé|}
+Kyrie eleison
+\translation{Pane, smiluj se.}
+
+\newsong{506|Ó, přijď, Pane můj|Taizé|}
+Ó, přijď, Pane můj, Ty znáš prosbu mou, přijď, volám, znáš hlas můj.
+Ó, přijď, Pane můj, Ty znáš prosbu mou, přijď a vyslyš hlas můj.
+
+\newsong{507|Zůstaň s námi, ó, Pane náš|Taizé|}
+Zůstaň s námi, ó, Pane náš, sklání se den.
+Jen zůstaň s námi, ať světlo Tvé v tmách našich svítí.
+
+\newsong{508|Novou píseň zpívejte|Taizé|}
+Novou píseň zpívejte, chvalte Pána v každý čas,
+chvalte Pána v každý čas!
+
+\newsong{508a|Pane, vzpomeň na mě|Taizé|}
+Pane, vzpomeň na mě, až přijdeš do svého království,
+Pane, vzpomeň na mě, až přijdeš do svého ráje.
+
+\newsong{509|Ó, Jesu christe, ó, in te confido|Taizé|}
+Ó, Jesu christe, ó, in te confido.
+\translation{Ježíši Kriste, v tebe doufám.}
+
+\newsong{509a|In manus tuas, Pater|Taizé|}
+|:In manus tuas, Pater, commendo spiritum meum. :|
+\translation{Otče, do tvých rukou odevzdávám svého ducha.}
 
 \newsong{510|Apoštolská}
 1. Prosíme Tě, dej nám, Pane, sílu. Chceme začít podle slov Tvých žít.
@@ -2298,15 +2355,15 @@ přinášíme svoje trápení, přinášíme i svůj hřích.
 A Ty nás, Bože přijímáš, přijímáš, každého a bezvýhradně přijímáš.
 
 \newsong{522|Požehnaný jsi, Bože}
-Požehnaný jsi, Bože, navěky, z Tvé ruky všechno máme.
-Požehnaný jsi, Bože, veliký, 1. chléb Ti zde přinášíme.
-2. víno Ti přinášíme. 
-3. dary Ti přinášíme.
+1. Požehnaný jsi, Bože, navěky, z Tvé ruky všechno máme.
+Požehnaný jsi, Bože, veliký, chléb Ti zde přinášíme.
+2. ... víno Ti přinášíme.
+3. ... dary Ti přinášíme.
 
 \newsong{523|Na oltář|Jiří Černý}
 Na oltář, na oltář, chléb a víno patří na oltář.
 Na oltář, na oltář, trápení a radost přece patří na oltář.
-na oltář, patří na oltář.
+na oltář,  patří na oltář.
 
 \newsong{524|Všichni jsme jedno tělo}
 {REF} Všichni jsme jedno tělo, spojil nás Ježíš, nikdo není sám.
@@ -2322,9 +2379,9 @@ jsem oběť jediná, jsem oběť nejvyšší.
 na kříži očekáváš moji touhu z tebe brát.
 Velký Bůh se teď sklání s vědomím, že kdo přijímá
 na kříži pohrdání, poklad svůj v nebi má.
-{REF}  Kdo jsem já, že vzít si smím poklad, který teď nabízí Pán,
+{REF} Kdo jsem já, že vzít si smím poklad, který teď nabízí Pán,
 chladným ránem stoupat s ním, spolu s ním být ukřižován.
-A pak přijmout vítězství život nový, ve vzkříšení
+A pak přijmout  vítězství život nový, ve vzkříšení
 přijmout svůj díl království, kde už pro smrt místo není.
 2. Všechno, co můžu dát, tobě dávám, tobě svou náruč otvírám,
 pod křížem odevzdávám všechno, co jsem chtěl mít sám.
@@ -2339,8 +2396,8 @@ tajemství člověka, tajemství Krista v nás, á, tajemství spásy.
 Toto je moje Tělo, Eucharistia. Toto je kalich mé krve, Eucharistia.
 A to tělo jsi ty, to tělo jsem já a to tělo jsme my, Eucharistia.
 
-\newsong{528|Ty jsi chléb živý }br. Vojtěch
-/: Ježíši, Ty jsi chléb živý, který sestoupil na tuto zem,
+\newsong{528|Ty jsi chléb živý|br. Vojtěch}
+/: Ježíši,  Ty jsi chléb živý, který sestoupil na tuto zem,
 za pokrm hladových duší Tělo Tvé dává se všem.:/
 Spatří slávu Tvou, kdo Tvé tělo jí, Pane, posiluj mou duši ke spasení.
 
@@ -2352,8 +2409,16 @@ Dotýkám se hříchů, dotýkám se ran, jsou mé, jsou Tvé, Pane, přijímám
 Jak dobré a utěšené, žijí-li bratři (sestry, všichni) v lásce.
 Radost mají, v lásce když přebývají.
 
-\newsong{531|TRUVÉRSKÁ MŠE: Čeká mě den (vstup)|Petr Eben}
-{REF}  Čeká mě den a když Tě potkám, Pane, ponesu lehčej jeho žár.
+\newsong{530a|Dary}
+1. Z mnoha zrn se stal jeden chléb, co naši duši z prachu povýší,
+naplní radostí, pokojem, k životu v nebi nás přiblíží.
+{REF}  Láskou proměň nám, to, co zde přinášíme, Tvé se staň.
+Dej, ať jsme jedno tělo, jeden chrám, my děti Tvé, Ty náš Pán.
+2. Z hroznů za pár chvil bude krev, která nás uzdraví a očistí,
+zahojí bolesti, pády, hněv a svou blízkostí nás utiší.
+
+\newsong{531|Čeká mě den (Truvérská mše, vstup)|Petr Eben}
+{REF} Čeká mě den a když Tě potkám, Pane, ponesu lehčej jeho žár.
 Čeká mě noc a cokoliv se stane, nestihne moji duši zmar.
 1. /: Už spojily se naše cesty, tys nám dal prohlédnout. :/
 A bratru platí odpuštění, úsměv můj a pozdravení,
@@ -2366,10 +2431,10 @@ A upřímné jsou naše prosby, abys nám dal odpuštění,
 mysl vždycky pokornou.
 
 \newsong{532|Nám radostí jsi, Pane, Ty (zpěv před evangeliem)}
-1. Nám radostí jsi, Pane, Ty a já to dlouho nevěděl,
+1.  Nám radostí jsi, Pane, Ty a já to dlouho nevěděl,
 snad proto, že jsem neviděl, jak slza v slunci roztávala.
 Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
-2. Nám radostí jsi, Pane, Ty a já to dlouho nevěděl,
+2.  Nám radostí jsi, Pane, Ty a já to dlouho nevěděl,
 snad proto, že jsem necítil, že dětská ruka je tak malá.
 Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
 3. Nám radostí jsi, Pane, Ty a já to dlouho nevěděl,
@@ -2377,7 +2442,7 @@ to proto, že jsem nepřijal slova, jež pokoj znamenala.
 Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
 
 \newsong{533|Za to, že v stromech (závěr)}
-1. Za to, že v stromech přečtu život a jaro v pevné závěji,
+1.  Za to, že v stromech přečtu život a jaro v pevné závěji,
 že potkal jsem tě dneska ráno, za to ti, Pane, děkuji.
 2. Za to, že mnoho věnovals mi, chválit tě mohu vroucněji,
 že vzal sis, co by tížilo mě, za to ti, Pane, děkuji.
@@ -2385,7 +2450,7 @@ Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
 že potkal jsem tě také večer, za to ti, Pane, děkuji.
 
 \newsong{534|V čas úzkosti (přijímání)}
-1. V čas úzkosti, v čas podmračený, ať, Pane, jedno jsme,
+1.  V čas úzkosti, v čas podmračený, ať, Pane, jedno jsme,
 čas naděje je neproměnný, před tebou stojíme.
 Ať přijímám tě jako lék na každou starost, zármutek
 a v neštěstí se svěřuji.
@@ -2408,13 +2473,13 @@ jsem uzavřený, Pane, dej, abych všem se otevřel.
 mám také touhu, Pane, aby tě srdce poznalo.
 
 \newsong{550|Uzřely všechny končiny země|Mutislav}
-{REF} Uzřely všechny končiny země spásu našeho Boha.
+{REF}  Uzřely všechny končiny země spásu našeho Boha.
 1. Zpívejte Hospodinu novou píseň, neboť učinil dobré věci.
 Vítězství je dílem jeho pravice, jeho svatého ramene.
 2. Hospodin uvedl ve známost svou spásu,
 před zraky pohanů zjevil svou spravedlnost.
 Rozpomenul se na svou dobrotu a věrnost Izraelovu domu.
-3. Uzřely všechny končiny země spásu našeho Boha.
+3. Uzřely všechny končiny země  spásu našeho Boha.
 Jásejte Hospodinu, všechny země, radujte se, plesejte a hrejte.
 4. Hrejte Hospodinu na citeru, na citeru a s doprovodem zpěvu,
 za hlaholu trub a rohů jásejte před Králem Hospodinem.
@@ -2430,7 +2495,8 @@ Požehnej tě Hospodin ze Siónu, abys viděl štěstí Jeruzaléma
 po všechny dny svého života.
 3. Abys viděl syny svých synů, pokoj v Izraeli.
 
-\newsong{552|Chci Ti, Pane, chválu vzdát, má chvála Tobě náleží.|M: Přikryl}
+\newsong{552|Chci Ti, Pane, chválu vzdát, má chvála Tobě náleží|M. Přikryl}
+Chci Ti, Pane, chválu vzdát, má chvála Tobě náleží.
 
 \newsong{553|Děkujte Hospodinu|Mutislav}
 {REF} Děkujte Hospodinu, neboť je dobrý,
@@ -2449,27 +2515,27 @@ Toto je den, který učinil Hospodin, jásejme a radujme se z něho.
 
 \newsong{554|Chvalte služebníci|Michael Špilar}
 1. Chvalte služebníci, svatý je náš Bůh,
-jméno svého Pána, věrný je náš Bůh.
-Dobrořečte Jemu, svatý je náš Bůh,
-nyní i na věky, věrný je náš Bůh.
-{REF} /: Pane, já vzývám jméno Tvé. Pane, je Ty smíš Králem být.:/
-2. Od východu slunce, svatý je náš Bůh
-až na jeho západ, věrný je náš Bůh.
-Nade všemi lidmi, svatý je náš Bůh,
-velká jeho sláva, věrný je náš Bůh.
-3. Chudáka se ujal, svatý je náš Bůh,
-i toho, kdo je v bídě, věrný je náš Bůh.
-Vedle slavných knížat, svatý je náš Bůh
-posadil ho na trůn, věrný je náš Bůh.
+jméno svého Pána,  věrný je náš Bůh.
+Dobrořečte Jemu,  svatý je náš Bůh,
+nyní i na věky,  věrný je náš Bůh.
+{REF} /: Pane, já vzývám jméno Tvé. Pane, jen Ty smíš Králem být.:/
+2. Od východu slunce,  svatý je náš Bůh
+až na jeho západ,  věrný je náš Bůh.
+Nade všemi lidmi,  svatý je náš Bůh,
+velká jeho sláva,  věrný je náš Bůh.
+3. Chudáka se ujal,  svatý je náš Bůh,
+i toho, kdo je v bídě,  věrný je náš Bůh.
+Vedle slavných knížat,  svatý je náš Bůh
+posadil ho na trůn,  věrný je náš Bůh.
 
 \newsong{555|Všechnu naději|M. Přikryl}
-{REF}  Všechnu naději jsem vložil v Hospodina.
+{REF} Všechnu naději jsem vložil v Hospodina.
 
-\newsong{556|Hospodine, Pane náš||Ž 8}
+\newsong{556|Hospodine, Pane náš, jak vznešené je tvoje jméno po vší zemi||Ž 8}
 Hospodine, Pane náš, jak vznešené je tvoje jméno po vší zemi.
 
 \newsong{557|Zaradoval jsem se, když mi řekli|Mutislav|Ž 122}
-{REF} Zaradoval jsem se, když mi řekli, do domu Hospodina půjdeme.
+{REF}  Zaradoval jsem se, když mi řekli, do domu Hospodina půjdeme.
 1. Zaradoval jsem se, když mi řekli, do domu Hospodina půjdeme.
 A naše nohy již stojí ve tvých branách, Jeruzaléme.
 2. Tam nahoru vystupují kmeny vzdát Hospodinu chválu.
@@ -2477,7 +2543,7 @@ Jak to zákon přikazuje Izraeli, aby chválil Hospodinovo jméno.
 3. Pro své bratry, pro své druhy vyhlašuji: Budiž tobě pokoj!
 Pro dům Hospodina, našeho Boha, usiluji o tvé dobro.
 
-\newsong{558|Hospodine, Pane náš|Ž 8}
+\newsong{558|Hospodine, Pane náš||Ž 8}
 Hospodine, Pane náš, jak důstojné je jméno tvé.
 Z úst maličkých mocně dokazuješ síly své protivníkům.
 Já když spatřuji nebes tvá, měsíc a hvězdy, vzdávám ti chválu a říkám:
@@ -2488,7 +2554,7 @@ jež jsi učinil nám lidem, že jsi nezatratil nás.
 
 \newsong{559|Pán dá požehnání|Mutislav}
 {REF}  /: Pán dá požehnání a pokoj svému lidu. :/ 4x
-1. Vzdejte Hospodinu, Boží synové, vzdejte Hospodinu slávu a moc.
+1. Vzdejte Hospodinu, Boží synové,  vzdejte Hospodinu slávu a moc.
 Vzdejte Hospodinu slávu hodnou Jeho jména.
 2. Hospodinův hlas nad vodami, Hospodin nad spoustami vod.
 Hospodin, jak je mocný. Hospodin, jak je velkolepý.
@@ -2505,7 +2571,7 @@ Hospodin trůnil nad potopou. Navěky bude jako Král.
 zdeptaným svobodu dal, vyhlásil léto milosti Pána.
 
 \newsong{561|Hospodine, kdo smí|H. Mikušková|Ž 15}
-{REF} /: Hospodine, kdo smí prodlévat v tvém stánku? :/
+{REF}  /: Hospodine, kdo smí prodlévat v tvém stánku? :/
 1. Kdo žije bez vady a koná spravedlnost,
 upřímně smýšlí ve svém srdci, svým jazykem nepomlouvá.
 2. Nečiní příkoří svému bližnímu, netupí svého souseda.
@@ -2514,7 +2580,7 @@ Nešlechetným člověkem pohrdá, ale váží si těch, kdo se bojí Hospodina.
 Kdo takto jedná, nikdy nezakolísá.
 
 \newsong{562|Má duše žízní po Tobě, Bože|H. Mikušková|Ž 63}
-{REF} Má duše žízní po Tobě, Bože.
+{REF}  Má duše žízní po Tobě, Bože.
 1. Bože, ty jsi můj Bůh, snažně tě hledám.
 2. Má duše po Tobě žízní, prahne po Tobě mé tělo,
 jak vyprahlá, žíznivá, bezvodá země.
@@ -2524,11 +2590,11 @@ jak vyprahlá, žíznivá, bezvodá země.
 v modlitbě své dlaně.
 6. Má duše se bude sytit jak tukem a morkem,
 má ústa budou zpívat chválu.
-7. Neboť stal ses mým pomocníkem a ve stínu křídel Tvých jásám.
+7. Neboť stal ses mým  pomocníkem a ve stínu křídel Tvých jásám.
 8. Má duše lne k Tobě, Tvá pravice mě podpírá.
 
 \newsong{563|Kéž byste uposlechli|H. Mikušková|Ž 95}
-{REF} Kéž byste uposlechli jeho hlasu. Nezatvrzujte svá srdce.
+{REF}  Kéž byste uposlechli jeho hlasu. Nezatvrzujte svá srdce.
 1. Pojďme, jásejme Hospodinu, oslavme skálu své spásy,
 předstupme před Něho s chvalozpěvy a písněmi Mu zajásejme.
 2. Pojďme, padněme, klaňme se, klekněme před svým tvůrcem
@@ -2540,7 +2606,7 @@ vaši otcové, zkoušeli mě, ač viděli mé činy.
 
 \newsong{564|Smiluj se, Bože, nade mnou|H. Mikušková|Ž 51}
 1. /: Smiluj se, Bože, nade mnou pro své milosrdenství.:/
-Smiluj se nade mnou, Bože, pro své milosrdenství.
+Smiluj se nade mnou,  Bože, pro své milosrdenství.
 Pro své velké slitování zahlaď mou nepravost.
 {ODP} Smiluj se, Bože, nade mnou.
 2. Moji nepravost smyj ze mne dokonale, očisť mě od mého hříchu.
@@ -2557,7 +2623,7 @@ budu bělejší nad sníh.
 Ty, Bože, nepohrdáš.
 
 \newsong{565|Má duše žízní|H. Mikušková|Ž 63}
-{ODP} Má duše žízní po Tobě Bože.
+{ODP}  Má duše žízní po Tobě Bože.
 1. Bože, Ty jsi můj Bůh, snažně Tě hledám. Má duše po Tobě žízní,
 prahne po Tobě mé tělo jak vyprahlá, žíznivá, bezvodá země.
 2. Tak toužím Tě ve svatyni spatřit, abych viděl Tvou moc a slávu, vždyť
@@ -2568,18 +2634,18 @@ chválu. Neboť stal ses mým pomocníkem a ve stínu křídel Tvých jásám.
 Má duše lne k Tobě, Tvá pravice mě podpírá.
 
 \newsong{567|Až procitnu, Hospodine|H. Mikušková|Ž 17}
-{ODP} Až procitnu, Hospodine, nasytím se pohledem na Tebe.
+{ODP}  Až procitnu, Hospodine, nasytím se pohledem na Tebe.
 1. Slyš, Hospodine, spravedlivou žádost, všimni si mého nářku,
 popřej sluchu mé modlitbě z bezelstných rtů.
 2. Mé kroky pevně setrvaly na Tvých stezkách, nezakolísaly mé nohy.
 Volám k Tobě, protože mě vyslyšíš, Bože, popřej mi sluchu,
 slyš mé slovo.
 3. Opatruj mě jako zřítelnici oka svého, do stínu svých perutí mě ukryj.
-Já však ve spravedlnosti uzřím Tvou tvář, až procitnu, nasytím se 
+Já však ve spravedlnosti uzřím Tvou tvář, až procitnu, nasytím se
 pohledem na Tebe.
 
-\newsong{568|Bůh je Králem|H. Mikušková|Ž 47}
-{ODP} Bůh je Králem, Bůh je Králem celého světa.
+\newsong{567|Bůh je Králem|H. Mikušková|Ž 47}
+{ODP} Bůh je Králem,  Bůh je Králem celého světa.
 1. Všechny národy, tleskejte rukama, jásejte Bohu radostným hlasem.
 2. Protože Hospodin je vznešený, hrozný, je to veliký Král nad celou zemí.
 3. Podrobuje nám národy, klade nám k nohám pohany.
