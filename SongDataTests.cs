@@ -12,7 +12,7 @@ namespace ZpivejmePanuTests
 		[SetUp]
 		public void Setup()
 		{
-			sut = new SongData("number", "title", "file.ext");
+			sut = new SongData("number", "title", "author", "source");
 		}
 
 		[Test]
@@ -20,7 +20,8 @@ namespace ZpivejmePanuTests
 		{
 			Assert.AreEqual("number", sut.GetNumber());
 			Assert.AreEqual("title", sut.GetTitle());
-			Assert.AreEqual("file.ext", sut.GetFileName());
+			Assert.AreEqual("author", sut.GetAuthor());
+			Assert.AreEqual("source", sut.GetSource());
 		}
 
 		[Test]
@@ -39,7 +40,7 @@ namespace ZpivejmePanuTests
 		[TestCase("123", "1", false)]
 		public void TestMatchNumber(string number, string key, bool expectation)
 		{
-			SongData sut = new SongData(number, "t", "f.ext");
+			SongData sut = new SongData(number, "t", "a", "s");
 			Assert.That(sut.Match(key), Is.EqualTo(expectation));
 		}
 
@@ -55,7 +56,7 @@ namespace ZpivejmePanuTests
 		[TestCase("bla", "neco", false)]
 		public void TestMatchTitle(string value, string key, bool expectation)
 		{
-			SongData sut1 = new SongData("n", value, "f.ext");
+			SongData sut1 = new SongData("n", value, "a", "s");
 			Assert.That(sut1.Match(key), Is.EqualTo(expectation));
 		}
 	}
