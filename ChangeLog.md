@@ -10,5 +10,7 @@
   - diacritics ignored
   - separate search in song number (exact), title, author or source (all subset)
 
+* upated song data (version 2)
+
 
 # 0.4.1
