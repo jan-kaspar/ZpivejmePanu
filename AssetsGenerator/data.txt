@@ -1480,15 +1480,15 @@ Ty jsi Ten, kdo hrad je můj i štít.
 Ty sám jsi vyvýšen. Byl´s jak růže, co člověk zahodí.
 Ty jsi Bůh, já ten, kdo uhodí.
 {REF} Nám jsi dal lásku svou a kříž. Žít jsi měl, byl jsi na obtíž.
-|: Pro můj hřích smrt jsi podstoupil. Vím, to kvůli mně, bych směl
-žít, jsi můj štít.:|
+/: Pro můj hřích smrt jsi podstoupil. Vím, to kvůli mně, bych směl
+žít, jsi můj štít.:/
 
 \newsong{289|Blahoslavení}
 1. K výšinám své oči pozvedám, koho bych se bál? Pomocnou ruku
 dá mi sám milostivý Král.
 2. Když umdléváme, staví nám stan, léčí nás jeho hlas. Chladí nám rány
 krví svých ran, pláštěm halí nás.
-{REF} |:Milosrdní jsou blahoslavení, protože oni dojdou milosrdenství.:|
+{REF} /:Milosrdní jsou blahoslavení, protože oni dojdou milosrdenství.:/
 3. Laskavě nám viny promíjí, učí nás odpouštět, nabízí lásku tak, aby ji
 poznal celý svět.
 {REF}
@@ -2291,7 +2291,7 @@ Pane, vzpomeň na mě, až přijdeš do svého ráje.
 \translation{Ježíši Kriste, v tebe doufám.}
 
 \newsong{509a|In manus tuas, Pater|Taizé|}
-|:In manus tuas, Pater, commendo spiritum meum. :|
+/:In manus tuas, Pater, commendo spiritum meum. :/
 \translation{Otče, do tvých rukou odevzdávám svého ducha.}
 
 \newsong{510|Apoštolská}
@@ -2430,7 +2430,7 @@ kterému dáš pomoc svou.
 A upřímné jsou naše prosby, abys nám dal odpuštění,
 mysl vždycky pokornou.
 
-\newsong{532|Nám radostí jsi, Pane, Ty (zpěv před evangeliem)}
+\newsong{532|Nám radostí jsi, Pane, Ty (Truvérská mše, zpěv před evangeliem)|Petr Eben}
 1.  Nám radostí jsi, Pane, Ty a já to dlouho nevěděl,
 snad proto, že jsem neviděl, jak slza v slunci roztávala.
 Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
@@ -2441,7 +2441,7 @@ Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
 to proto, že jsem nepřijal slova, jež pokoj znamenala.
 Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
 
-\newsong{533|Za to, že v stromech (závěr)}
+\newsong{533|Za to, že v stromech (Truvérská mše, závěr)|Petr Eben}
 1.  Za to, že v stromech přečtu život a jaro v pevné závěji,
 že potkal jsem tě dneska ráno, za to ti, Pane, děkuji.
 2. Za to, že mnoho věnovals mi, chválit tě mohu vroucněji,
@@ -2449,7 +2449,7 @@ Nám radostí jsi, Pane, Ty, jsi, Pane, Ty.
 3. Za to, že doved jsi mě blízko, s bratry i já tě miluji,
 že potkal jsem tě také večer, za to ti, Pane, děkuji.
 
-\newsong{534|V čas úzkosti (přijímání)}
+\newsong{534|V čas úzkosti (Truvérská mše, přijímání)|Petr Eben}
 1.  V čas úzkosti, v čas podmračený, ať, Pane, jedno jsme,
 čas naděje je neproměnný, před tebou stojíme.
 Ať přijímám tě jako lék na každou starost, zármutek
@@ -2463,7 +2463,7 @@ shledání s tebou oslavím.
 V čas jásavý, v čas rozjasněný, ať, Pane, jedno jsme,
 čas naděje je neproměnný, před tebou stojíme.
 
-\newsong{535|Chleba a víno (obětní průvod)}
+\newsong{535|Chleba a víno (Truvérská mše, obětní průvod)|Petr Eben}
 {REF} Chleba a víno neseme, přijmi ty dary, prosíme.
 1. Mám prázdné ruce, Pane, že skutkem jsem je nenaplnil,
 mám těžké nohy, Pane, bližnímu jsem se nepřiblížil.

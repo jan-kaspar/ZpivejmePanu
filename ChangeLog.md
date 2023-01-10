@@ -1,3 +1,13 @@
+# 0.6
+
+* UI
+  - use search bar instead of plain text edit for entering the search pattern
+
+* data
+  - unify symbol for repetitions
+  - update songs belonging to Truver mass
+
+
 # 0.5
 
 * application name changed to ZpivamePanu
