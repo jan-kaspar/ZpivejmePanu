@@ -8,6 +8,7 @@
   - update songs belonging to Truver mass
 
 
+
 # 0.5
 
 * application name changed to ZpivamePanu
@@ -21,6 +22,7 @@
   - separate search in song number (exact), title, author or source (all subset)
 
 * upated song data (version 2)
+
 
 
 # 0.4.1

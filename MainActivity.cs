@@ -12,7 +12,7 @@ namespace ZpivejmePanu
 	[Activity(Label = "@string/app_name", Icon = "@drawable/icon", Theme = "@style/AppTheme", MainLauncher = true)]
 	public class MainActivity : AppCompatActivity
 	{
-		EditText selectionText;
+		SearchView searchView;
 		Button searchButton;
 		Button showAllButton;
 		Button helpButton;
@@ -27,12 +27,13 @@ namespace ZpivejmePanu
 
 			SetContentView(Resource.Layout.activity_main);
 
-			selectionText = FindViewById<EditText>(Resource.Id.SelectionText);
+			searchView = FindViewById<SearchView>(Resource.Id.SearchView);
 			searchButton = FindViewById<Button>(Resource.Id.SearchButton);
 			showAllButton = FindViewById<Button>(Resource.Id.ShowAllButton);
 			helpButton = FindViewById<Button>(Resource.Id.HelpButton);
 			versionTextView = FindViewById<TextView>(Resource.Id.VersionTextView);
 
+			searchView.QueryTextSubmit += SearchView_QueryTextSubmit;
 			searchButton.Click += SearchButton_Click;
 			showAllButton.Click += ShowAllButton_Click;
 			helpButton.Click += HelpButton_Click;
@@ -40,12 +41,22 @@ namespace ZpivejmePanu
 			versionTextView.Text = "verze " + VersionTracking.CurrentVersion;
 		}
 
+		private void SearchView_QueryTextSubmit(object sender, SearchView.QueryTextSubmitEventArgs e)
+		{
+			StartSearch();
+		}
+
 		private void SearchButton_Click(object sender, object e)
 		{
-			DoSearch(selectionText.Text);
+			StartSearch();
+		}
+
+		private void StartSearch()
+		{
+			DoSearch(searchView.Query);
 
 			// reset text before next search
-			selectionText.Text = "";
+			searchView.SetQuery("", false);
 		}
 
 		private void ShowAllButton_Click(object sender, object e)
@@ -81,12 +92,12 @@ namespace ZpivejmePanu
 			StartActivity(intent);
 		}
 		
-        private void HelpButton_Click(object sender, object e)
-        {
+		private void HelpButton_Click(object sender, object e)
+		{
 			var intentd = new Intent(this, typeof(SongViewActivity));
 			intentd.PutExtra("songFile", "../help.html");
 			StartActivity(intentd);
-        }
+		}
 
 		public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
 		{
