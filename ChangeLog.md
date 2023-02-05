@@ -1,3 +1,9 @@
+# 0.6.1
+
+* new coloured icon
+
+
+
 # 0.6
 
 * UI
